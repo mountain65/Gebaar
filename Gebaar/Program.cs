@@ -3,6 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Diagnostics;
 using System.Collections.Generic;
+using Mono.Options;
 
 namespace Gebaar
 {
@@ -45,25 +46,16 @@ namespace Gebaar
 		}
 
 
-		static void DisplayList (IDictionary<string,string> begrippen, string[] args)
+		static void DisplayList (IEnumerable<KeyValuePair<string,string>> begrippen, string[] args)
 		{
-			foreach (var begrip in begrippen.OrderBy (b => b.Key))
-				Console.WriteLine (begrip.Key);
+			var names = begrippen;
+			if (args.Length > 1)
+				names = begrippen.Where (b => b.Key.StartsWith (args[1]));
+
+			foreach (var name in names.OrderBy (b => b.Key))
+				Console.WriteLine (name.Key);
 		}
 	}
 
-	class IniReader
-	{
-		string path;
 
-		public IniReader (string path)
-		{
-			this.path = path;
-		}
-
-		public IEnumerable<string[]> Read(string fileName)
-		{
-			return File.ReadAllLines(Path.Combine(this.path, fileName)).SkipWhile (w => w.Trim () != "[Data]").Skip (1).Select (b => b.Split ('='));
-		}
-	}
 }
