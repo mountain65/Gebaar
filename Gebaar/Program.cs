@@ -10,8 +10,8 @@ namespace Gebaar
 	{
 		public static void Main (string[] args)
 		{
-//			var path = ".";
-			var path = "/Users/mountain/Public/GebarenDVDs/Sexualiteit";
+			var path = ".";
+//			var path = "/Users/mountain/Public/GebarenDVDs/Sexualiteit";
 			var iniReader = new IniReader(path);
 
 			var begrippen = iniReader.Read("begrip_ok.ini").ToDictionary(l => l[1].Split (';').First (), l => l[0]);
@@ -19,8 +19,8 @@ namespace Gebaar
 			var films = iniReader.Read("film_ok.ini").ToDictionary(l => l[0], l => l[1]);
 
 			var begripToFind = args [0].ToUpper();
-			if (begripToFind == "-ALL") {
-				DisplayList (begrippen);
+			if (begripToFind == "-LIST") {
+				DisplayList (begrippen, args);
 			}
 
 			var matches = begrippen.Where (b => b.Key.StartsWith (begripToFind));
@@ -45,7 +45,7 @@ namespace Gebaar
 		}
 
 
-		static void DisplayList (IDictionary<string,string> begrippen)
+		static void DisplayList (IDictionary<string,string> begrippen, string[] args)
 		{
 			foreach (var begrip in begrippen.OrderBy (b => b.Key))
 				Console.WriteLine (begrip.Key);
