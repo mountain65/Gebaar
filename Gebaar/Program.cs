@@ -11,7 +11,8 @@ namespace Gebaar
 		public static void Main (string[] args)
 		{
 //			var path = ".";
-			var iniReader = new IniReader("/Users/mountain/Public/GebarenDVDs/Sexualiteit");
+			var path = "/Users/mountain/Public/GebarenDVDs/Sexualiteit";
+			var iniReader = new IniReader(path);
 
 			var begrippen = iniReader.Read("begrip_ok.ini").ToDictionary(l => l[1].Split (';').First (), l => l[0]);
 
@@ -34,7 +35,7 @@ namespace Gebaar
 			}
 
 			var filmNr = gebaren [begripNr].Split (';').Last ();
-			var films = iniReader.Read(path, "film_ok.ini").ToDictionary(l => l[0], l => l[1]);
+			var films = iniReader.Read("film_ok.ini").ToDictionary(l => l[0], l => l[1]);
 
 			Process.Start("/Applications/QuickTime Player.app", Path.Combine(path, "films", films[filmNr] + ".mpg"));
 		}
