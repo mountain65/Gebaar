@@ -6,6 +6,9 @@ A simple commandline viewer for Dutch Sign Language on the Mac
 ## Introduction
 This viewer works with all the Gebaren DVDs you bought at the [Gebarencentrum webshop](https://www.gebarencentrum.nl/winkel/gebaren-dvd-roms/). 
 
+## Build
+If you have MonoDevelop or Xamarin Studio, open the solution file and build. Otherwise download the  executable.
+
 ## Installation
 Copy the contents of your DVD to your disk. Than copy the Gebaar.exe to the directory where you copied the DVD to. 
 This should be a directory with a file called "begrip_ok.ini" in it.
