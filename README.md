@@ -4,7 +4,7 @@ Gebaar
 A simple commandline viewer for Dutch Sign Language on the Mac
 
 ## Introduction
-This viewer works with all the Gebaren DVDs you bought at the [Gebarencentrum](www.gebarencentrum.nl) webshop. 
+This viewer works with all the Gebaren DVDs you bought at the [Gebarencentrum](http://www.gebarencentrum.nl) webshop. 
 
 ## Installation
 Copy the contents of your DVD to your disk. Than copy the Gebaar.exe to the directory where you copied the DVD to. 
