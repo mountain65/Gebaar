@@ -17,7 +17,6 @@ If needed, install Mono from [Mono Project](http://www.mono-project.com/Main_Pag
 ## Usage
 Open a Terminal window and "cd" into the directory where the exe is. 
 Type "mono Gebaar.exe -all" to get a list of all the available signs. 
-Type "mono Gebaar.exe <sign>" to view a short film of the sign in QuickTime. The name of the sign should be exactly as in 
-the list.
+Type "mono Gebaar.exe <sign>" to view one or more short films in QuickTime. All the signs that start with the given name are matched.
 
 
