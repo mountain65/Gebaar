@@ -10,18 +10,33 @@ namespace Gebaar
 
 	public class Arguments
 	{
-		string[] args;
+		string[] _args;
 
-		OptionSet options = new OptionSet () {
-			{ "-list", f => this.Filter = f },
-		};
-
-		public static Arguments Parse(string[] args)
+		public Arguments (string[] args = null)
 		{
-			options.Parse (args);
+			_args = args;
+			this.Filter = "";
+			this.Path = ".";
+		}
+
+		public void Parse()
+		{
+			if (_args != null)
+			{
+				var options = new OptionSet () {
+					{ "l|list=", f => this.Filter = f },
+				};
+
+				options.Parse (_args);
+			}
 		}
 
 		public string Filter {
+			get;
+			set;
+		}
+
+		public string Path {
 			get;
 			set;
 		}
