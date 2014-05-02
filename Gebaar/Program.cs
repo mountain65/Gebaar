@@ -11,19 +11,20 @@ namespace Gebaar
 	{
 		public static void Main (string[] args)
 		{
-			var path = ".";
-//			var path = "/Users/mountain/Public/GebarenDVDs/Sexualiteit";
-			var iniReader = new IniReader(path);
+			var arguments = new Arguments (args);
+			arguments.Parse ();
+
+			var iniReader = new IniReader(arguments.Path);
 
 			var begrippen = iniReader.Read("begrip_ok.ini").ToDictionary(l => l[1].Split (';').First (), l => l[0]);
 			var gebaren = iniReader.Read("gebaar_ok.ini").ToDictionary(l => l[1].Split(';').First (), l => l[1]);
 			var films = iniReader.Read("film_ok.ini").ToDictionary(l => l[0], l => l[1]);
 
-			var begripToFind = args [0].ToUpper();
-			if (begripToFind == "-LIST") {
-				DisplayList (begrippen, args);
+			if (arguments.List) {
+				DisplayList (begrippen, arguments.Filter);
 			}
 
+			var begripToFind = arguments.Name;
 			var matches = begrippen.Where (b => b.Key.StartsWith (begripToFind));
 			if (matches.Count() == 0) {
 				Console.WriteLine ("Begrip {0} niet gevonden", begripToFind);
@@ -41,16 +42,16 @@ namespace Gebaar
 
 				var filmNr = gebaren [begripNr].Split (';').Last ();
 
-				Process.Start("/Applications/QuickTime Player.app", Path.Combine(path, "films", films[filmNr] + ".mpg"));
+				Process.Start("/Applications/QuickTime Player.app", Path.Combine(arguments.Path, "films", films[filmNr] + ".mpg"));
 			}
 		}
 
 
-		static void DisplayList (IEnumerable<KeyValuePair<string,string>> begrippen, string[] args)
+		static void DisplayList (IEnumerable<KeyValuePair<string,string>> begrippen, string filter)
 		{
 			var names = begrippen;
-			if (args.Length > 1)
-				names = begrippen.Where (b => b.Key.StartsWith (args[1]));
+			if (!string.IsNullOrEmpty(filter))
+				names = begrippen.Where (b => b.Key.StartsWith (filter));
 
 			foreach (var name in names.OrderBy (b => b.Key))
 				Console.WriteLine (name.Key);

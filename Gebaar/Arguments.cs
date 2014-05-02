@@ -1,8 +1,4 @@
 using System;
-using System.IO;
-using System.Linq;
-using System.Diagnostics;
-using System.Collections.Generic;
 using Mono.Options;
 
 namespace Gebaar
@@ -24,11 +20,25 @@ namespace Gebaar
 			if (_args != null)
 			{
 				var options = new OptionSet () {
-					{ "l|list=", f => this.Filter = f },
+					{ "l|list", "Show a list of all signs, possibly filtered by the argument", f => { this.List = true; this.Filter = f; }},
+					{ "p|path=", "Specify path to DVD", p => this.Path = p },
+					{ "<>", n => this.Name = n },
 				};
 
-				options.Parse (_args);
+				try {
+					options.Parse (_args);
+				}
+				catch (OptionException oe) {
+					Console.Write ("Gebaar.exe:");
+					Console.WriteLine (oe.Message);
+					options.WriteOptionDescriptions (Console.Out);
+				}
 			}
+		}
+
+		public bool List {
+			get;
+			set;
 		}
 
 		public string Filter {
@@ -37,6 +47,11 @@ namespace Gebaar
 		}
 
 		public string Path {
+			get;
+			set;
+		}
+
+		public string Name {
 			get;
 			set;
 		}
