@@ -1,5 +1,5 @@
 using System;
-using Mono.Options;
+using System.Configuration;
 
 namespace Gebaar
 {
@@ -17,23 +17,17 @@ namespace Gebaar
 
 		public void Parse()
 		{
-			if (_args != null)
-			{
-				var options = new OptionSet () {
-					{ "l|list", "Show a list of all signs, possibly filtered by the argument", f => { this.List = true; this.Filter = f; }},
-					{ "p|path=", "Specify path to DVD", p => this.Path = p },
-					{ "<>", n => this.Name = n },
-				};
-
-				try {
-					options.Parse (_args);
-				}
-				catch (OptionException oe) {
-					Console.Write ("Gebaar.exe:");
-					Console.WriteLine (oe.Message);
-					options.WriteOptionDescriptions (Console.Out);
-				}
+			if (_args.Length == 0 || _args[0] == "-list") {
+				this.List = true;
+				if (_args.Length == 2 && !string.IsNullOrEmpty (_args [1]))
+					this.Filter = _args [1].ToUpper();
 			}
+
+			if (_args.Length == 1)
+				this.Name = _args [0].ToUpper ();
+
+			if (ConfigurationManager.AppSettings != null)
+				this.Path = ConfigurationManager.AppSettings ["path"];
 		}
 
 		public bool List {

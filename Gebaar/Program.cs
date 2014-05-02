@@ -3,7 +3,6 @@ using System.IO;
 using System.Linq;
 using System.Diagnostics;
 using System.Collections.Generic;
-using Mono.Options;
 
 namespace Gebaar
 {
@@ -22,6 +21,7 @@ namespace Gebaar
 
 			if (arguments.List) {
 				DisplayList (begrippen, arguments.Filter);
+				return;
 			}
 
 			var begripToFind = arguments.Name;
