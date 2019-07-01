@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProductVersion>10.0.0</ProductVersion>
+    <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{DBFF8547-F1BC-48E5-975F-9F867A7E3932}</ProjectGuid>
     <OutputType>Exe</OutputType>
@@ -30,6 +30,7 @@
     <WarningLevel>4</WarningLevel>
     <Externalconsole>true</Externalconsole>
     <PlatformTarget>x86</PlatformTarget>
+    <Commandlineparameters>VRAAG</Commandlineparameters>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

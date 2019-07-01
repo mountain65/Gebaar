@@ -1,0 +1,1016 @@
+﻿AARDRIJKSKUNDE;42500.mpg;;;;;Topografie/;37-l.bmp/37-r.bmp/1-l.bmp/44-r.bmp
+ACHT plaatsnaam;2147428194.mpg;;;;8340.jpg/7657.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+ACHTERHOEK;2147429544.mpg;;;;8254.jpg/;Provincie Gelderland/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+ADANA;2147428465.mpg;;;;7826.jpg/;Turkije/;31-l.bmp/31-r.bmp/1-l.bmp/1-r.bmp
+ADELAIDE;2147429545.mpg;;;;7398.jpg/;Australië/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+AFGHANISTAN;2147428195.mpg;;8569.jpg;;7083.jpg/7141.jpg/;Landen/Afghanistan/Werelddeel Azië/;71-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+AFRIKA;03425.mpg;;;;7181.jpg/;Werelddelen/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+AFSLUITDIJK;50222.mpg;;;;;Nederland: wateren/;36-l.bmp/36-r.bmp/8-l.bmp/8-r.bmp
+AGADIR;2147429546.mpg;;;;7640.jpg/;Marokko/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+ALASKA;2147428447.mpg;;6872.jpg;;7886.jpg/;Verenigde Staten/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ALBANIË;02820.mpg;;6755.jpg;;6969.jpg/8062.jpg/;Landen/Albanië/Werelddeel Europa/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+ÅLBORG;2147430016.mpg;;;;8220.jpg/;Denemarken/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+ÅLESUND;2147428448.mpg;;;;7719.jpg/;Noorwegen/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+ALGARVE;2147428725.mpg;;;;7756.jpg/;Portugal/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+ALGERIJE;2147428196.mpg;;6756.jpg;;7113.jpg/7114.jpg/;Landen/Algerije/Werelddeel Afrika/;53-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+ALICANTE;2147428352.mpg;;;;7800.jpg/;Spanje/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+ALKMAAR;2147428197.mpg;;;;7680.jpg/8341.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+ALKMAAR...;2147428198.mpg;;;;8012.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+ALMA-ATA;2147428466.mpg;;;;8260.jpg/;Kazachstan/;1-l.bmp/31-r.bmp/1-l.bmp/1-r.bmp
+ALMELO;2147428199.mpg;;;;7356.jpg/8342.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+ALMERE;2147428384.mpg;;;;8162.jpg/;Nederland: plaatsnamen/Provincie Flevoland/;1-l.bmp/36-r.bmp/1-l.bmp/54-r.bmp
+ALMERÍA;2147429547.mpg;;;;7801.jpg/;Spanje/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ALPEN;2147428726.mpg;;;;8014.jpg/;Wereld: gebergte en vulkanen/Duitsland/Zwitserland/Frankrijk/Oostenrijk/Italië/Slovenië/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+ALPHEN AAN DEN RIJN;2147429789.mpg;;;;7933.jpg/8343.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+AMAZONE;2147428727.mpg;;;;8514.jpg/;Wereld: gebergte en vulkanen/Brazilië/Bolivia/Colombia/Ecuador/Peru/Suriname/Venezuela/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+AMBON;2147430843.mpg;;;;8106.jpg/;Indonesië/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+AMELAND;2147429549.mpg;;;;8040.jpg/8344.jpg/;Provincie Friesland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+AMERIKA;42970.mpg;;;;8235.jpg/;Werelddelen/;54-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+AMERIKA / VERENIGDE STATEN;03047.mpg;4018.jpg/;6865.jpg;;8213.jpg/;Landen/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+AMERSFOORT;2147428353.mpg;;;;7844.jpg/8345.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+AMMAN;2147429791.mpg;;;;7585.jpg/;Jordanië/;1-l.bmp/51-r.bmp/36-l.bmp/2-r.bmp
+AMSTELVEEN;2147428200.mpg;;;;7681.jpg/8346.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+AMSTERDAM;40950.mpg;5340.jpg/5341.jpg/;;;7682.jpg/8347.jpg/;Nederland: plaatsnamen//Provincie Noord-Holland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+AMSTERDAM-RIJNKANAAL;2147429550.mpg;;;;7705.jpg/;Nederland: wateren/;40-l.bmp/40-r.bmp/1-l.bmp/8-r.bmp
+ANCHORAGE;2147431142.mpg;;;;;Verenigde Staten/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ANDALUSIË;2147429792.mpg;;;;7802.jpg/;Spanje/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+ANDORRA;2147429793.mpg;;;;6970.jpg/;Landen/Werelddeel Europa/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+ANGOLA;2147428728.mpg;;;;7115.jpg/7116.jpg/;Landen/Angola/Werelddeel Afrika/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+ANKARA;2147428467.mpg;;;;7827.jpg/;/Turkije/;3-l.bmp/31-r.bmp/1-l.bmp/1-r.bmp
+ANTALYA;2147429794.mpg;;;;7828.jpg/;Turkije/;36-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ANTARCTICA;43417.mpg;;;;8284.jpg/8282.jpg/8283.jpg/;Werelddelen/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+ANTILLEN;50081.mpg;;;;;Nederlandse Antillen/;1-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+ANTWERPEN;2147428201.mpg;;;;7407.jpg/;/België/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+AOMEN / MACAU eiland;2147431168.mpg;;;;8521.jpg/8522.jpg/;China/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+AOMEN / MACAU stad;2147431169.mpg;;;;8248.jpg/;China/;25-l.bmp/25-r.bmp/1-l.bmp/1-r.bmp
+APELDOORN;2147428386.mpg;;;;8161.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/8-r.bmp/35-l.bmp/40-r.bmp
+AQUITANIË;2147428464.mpg;;;;7482.jpg/;Frankrijk/;2-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ARDÈCHE;2147429551.mpg;;;;7483.jpg/;Frankrijk/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+ARDENNEN;2147429795.mpg;;;;7408.jpg/;Wereld: gebergte en vulkanen/België/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+ARGENTINIË;2147428202.mpg;;6757.jpg;;8309.jpg/8500.jpg/;Landen/Argentinië/Werelddeel Zuid-Amerika/;9-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+ÅRHUS;2147428193.mpg;;;;8221.jpg/;Denemarken/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ARIZONA;2147428455.mpg;;;;7887.jpg/;Verenigde Staten/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ARMENIË;2147428203.mpg;;;;7250.jpg/8072.jpg/;Landen/Armenië/Werelddeel Azië/;35-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+ARNHEM;2147428387.mpg;5355.jpg/;;;8163.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Gelderland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+ARUBA;04302.mpg;;6758.jpg;;8534.jpg/8535.jpg/;;35-l.bmp/39-r.bmp/1-l.bmp/1-r.bmp
+ASSEN;2147428389.mpg;5356.jpg/;;;7316.jpg/8348.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Drenthe/;1-l.bmp/39-r.bmp/1-l.bmp/1-r.bmp
+ATHENE;2147429797.mpg;;;;7512.jpg/;//Griekenland/;36-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ATJEH;2147429552.mpg;;;;7535.jpg/;Indonesië/;24-l.bmp/24-r.bmp/1-l.bmp/12-r.bmp
+ATLANTA;2147428456.mpg;;;;8559.jpg/;Verenigde Staten/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ATLANTISCHE OCEAAN;50534.mpg;;;;8096.jpg/;Wereld: wateren/;35-l.bmp/35-r.bmp/1-l.bmp/54-r.bmp
+ATLAS;2147429799.mpg;;;;;Topografie/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+AUCKLAND;2147430655.mpg;;;;7653.jpg/;Nieuw Zeeland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+AUSTRALIË;50237.mpg;;6759.jpg;;7267.jpg/7286.jpg/;Landen/Werelddelen/Australië/Werelddeel Oceanië/;60-l.bmp/60-r.bmp/1-l.bmp/1-r.bmp
+AUVERGNE;2147429553.mpg;;;;7484.jpg/;Frankrijk/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+AVEIRO;2147428729.mpg;;;;7761.jpg/;Portugal/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+AZERBEIDZJAN;2147428204.mpg;;6891.jpg;;7085.jpg/7272.jpg/;Landen/Azerbeidzjan/Werelddeel Europa/Werelddeel Azië/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+AZIË;2147423865.mpg;;;;7273.jpg/;Werelddelen/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+AZOREN;2147429801.mpg;;6938.jpg;;8029.jpg/;Portugal/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+BADEN;2147428205.mpg;;;;7728.jpg/;/Oostenrijk/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+BAGDAD;2147428206.mpg;;;;7547.jpg/;/Irak/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+BAHAMA'S;2147428457.mpg;;6760.jpg;;8202.jpg/;Landen/Werelddeel Noord-Amerika/;3-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BAKOE;2147428468.mpg;;;;7405.jpg/;/Azerbeidzjan/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+BALATON-MEER;2147428458.mpg;;;;8067.jpg/;Wereld: wateren/Hongarije/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+BALI;2147429802.mpg;;;;7536.jpg/;Indonesië/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BALK;2147430017.mpg;;;;8349.jpg/7327.jpg/;Nederland: plaatsnamen/Provincie Friesland/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+BALKAN;2147428459.mpg;;;;8238.jpg/;Wereld: gebergte en vulkanen/Bulgarije/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+BALKAN...;2147428460.mpg;;;;8237.jpg/;Wereld: gebergte en vulkanen/Bulgarije/;47-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+BAMAKO;2147430656.mpg;;;;7637.jpg/;/Mali/;35-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BANDUNG;2147429555.mpg;;;;7537.jpg/;Indonesië/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+BANGALORE;2147428461.mpg;;;;8190.jpg/;India/;19-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+BANGKOK;2147429556.mpg;;;;7993.jpg/;/Thailand/;36-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+BANGLADESH;2147428207.mpg;;6893.jpg;;7088.jpg/7089.jpg/;Landen/Bangladesh/Werelddeel Azië/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+BANJA LUKA;2147428730.mpg;;;;7427.jpg/;Bosnië en Herzegovina/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+BARCELONA;2147428731.mpg;;;;8069.jpg/;/Spanje/;54-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+BARENDRECHT;2147428393.mpg;;;;8350.jpg/7934.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;36-l.bmp/36-r.bmp/1-l.bmp/54-r.bmp
+BARI;2147429557.mpg;;;;7566.jpg/;Italië/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+BARNEVELD;2147428732.mpg;;;;8164.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+BASEL;2147428394.mpg;;;;8153.jpg/;Zwitserland/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BAYREUTH;2147429803.mpg;;;;6974.jpg/;Duitsland/;26-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+BEIEREN;2147428342.mpg;;;;6975.jpg/;Duitsland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+BEIJING / PEKING;2147431171.mpg;;;;8070.jpg/;/China/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+BEILEN;2147428208.mpg;;;;8351.jpg/7317.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+BEIRUT;2147429804.mpg;;;;7614.jpg/;/Libanon/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+BELFAST;2147428210.mpg;;;;7860.jpg/;/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+BELGIË;01571.mpg;5940.jpg/5941.jpg/;6751.jpg;;6971.jpg/7014.jpg/;Landen/België/Werelddeel Europa/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BELGRADO;2147428771.mpg;;;;7789.jpg/;/Servië/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+BELIZE;2147428211.mpg;;;;8203.jpg/;Landen/Belize/Werelddeel Noord-Amerika/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BENEDENWINDSE EILANDEN / EILANDEN BENEDEN DE WIND;2147429805.mpg;;;;8526.jpg/8528.jpg/;;1-l.bmp/36-r.bmp/1-l.bmp/12-r.bmp
+BENELUX;50251.mpg;;;;8111.jpg/;;1-l.bmp/34-r.bmp/1-l.bmp/42-r.bmp
+BENIDORM;2147428356.mpg;;;;8102.jpg/;/Spanje/;36-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+BENNEKOM;2147429806.mpg;;;;8177.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+BERAT;2147429558.mpg;;;;7382.jpg/;Albanië/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+BERG;00382.mpg;;1372.jpg;2527.jpg/;;Topografie/;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+BERGEN / MONS;2147428329.mpg;;;;7418.jpg/;België/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+BERGEN Noorwegen;2147428462.mpg;;;;7720.jpg/;Noorwegen/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+BERGEN OP ZOOM;2147428212.mpg;;;;7658.jpg/8352.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+BERLIJN;2147428733.mpg;;;;6976.jpg/;/Duitsland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+BERMUDA;2147429559.mpg;;;;8114.jpg/;Verenigd Koninkrijk/;37-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+BERN;2147428213.mpg;;;;7965.jpg/;/Zwitserland/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+BEST;2147428214.mpg;;;;7659.jpg/8353.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+BETUWE;2147429807.mpg;;;;8134.jpg/;Provincie Gelderland/;37-l.bmp/37-r.bmp/1-l.bmp/54-r.bmp
+BEVERWIJK;2147428734.mpg;;;;7683.jpg/8354.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+BIESBOSCH;2147429561.mpg;;;;8262.jpg/;Provincie Zuid-Holland/Provincie Noord-Brabant/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+BILBAO;2147428357.mpg;;;;7804.jpg/;Spanje/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+BIRMA / MYANMAR;2147429637.mpg;;6934.jpg;;8060.jpg/8061.jpg/;Landen/Werelddeel Azië/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+BIRMINGHAM;2147428469.mpg;;;;7861.jpg/;/;15-l.bmp/15-r.bmp/36-l.bmp/66-r.bmp
+BLACKPOOL;2147428470.mpg;;;;7862.jpg/;;1-l.bmp/2-r.bmp/45-l.bmp/45-r.bmp
+BOBO-DIOULASSO;2147430690.mpg;;;;7451.jpg/;Burkina Faso/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BODØ;2147428463.mpg;;;;7721.jpg/;Noorwegen/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+BODRUM;2147428471.mpg;;;;7829.jpg/;Turkije/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+BOEKAREST;2147428474.mpg;;;;7781.jpg/;/Roemenië/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BOLIVIA;2147428008.mpg;;6894.jpg;;8310.jpg/8501.jpg/;Landen/Bolivia/Werelddeel Zuid-Amerika/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+BOLOGNA;2147429808.mpg;;;;7567.jpg/;Italië/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+BOMBAY;2147428475.mpg;;;;8294.jpg/;India/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+BONAIRE;2147428215.mpg;;6761.jpg;;8536.jpg/8537.jpg/;Nederlandse Antillen/;36-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+BONN;2147428216.mpg;;;;6977.jpg/;/Duitsland/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+BORDEAUX;2147428476.mpg;;;;7485.jpg/;Frankrijk/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BORNE;2147430018.mpg;;;;7357.jpg/8355.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;35-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+BOSNIË en HERZEGOVINA;2147429890.mpg;;6944.jpg;;8058.jpg/8059.jpg/;Landen/Bosnië en Herzegovina/Werelddeel Europa/;1-l.bmp/34-r.bmp/3-l.bmp/3-r.bmp
+BOSTON;2147428477.mpg;;;;8556.jpg/;Verenigde Staten/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BOTSWANA;2147428303.mpg;;6883.jpg;;7094.jpg/7095.jpg/;Landen/Botswana/Werelddeel Afrika/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BOVENWINDSE EILANDEN / EILANDEN BOVEN DE WIND;2147431439.mpg;;;;8529.jpg/8531.jpg/;;1-l.bmp/54-r.bmp/1-l.bmp/12-r.bmp
+BOXTEL;2147428735.mpg;;;;7660.jpg/8356.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+BRAGA;2147428736.mpg;;;;7762.jpg/;Portugal/;1-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+BRASILIA;2147428478.mpg;;;;7436.jpg/;/Brazilië/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+BRATISLAVA;2147428479.mpg;;;;7796.jpg/;/Slowakije/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+BRAZILIË;03428.mpg;;6762.jpg;;8502.jpg/8311.jpg/;Landen/Brazilië/Werelddeel Zuid-Amerika/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BREDA;2147428218.mpg;;;;8357.jpg/7661.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+BREGENZ;2147429710.mpg;;;;7729.jpg/;Oostenrijk/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+BREMEN;2147428737.mpg;;;;6978.jpg/;Duitsland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+BREST;2147428480.mpg;;;;7486.jpg/;Frankrijk/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+BRETAGNE;2147428481.mpg;;;;7487.jpg/;Frankrijk/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+BRIGHTON;2147428482.mpg;;;;7863.jpg/;;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+BRISBANE;2147429563.mpg;;;;7399.jpg/;Australië/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+BRISTOL;2147428483.mpg;;;;7864.jpg/;;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+BRNO;2147428484.mpg;;;;7836.jpg/;Tsjechië/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+BRUGGE;2147428219.mpg;;;;7409.jpg/;België/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+BRUNEI;2147429564.mpg;;;;7098.jpg/7099.jpg/;Landen/Werelddeel Azië/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+BRUSSEL;2147428220.mpg;;;;7410.jpg/;/België/;49-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+BUDAPEST;2147428472.mpg;;;;7517.jpg/;/Hongarije/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+BUDAPEST...;2147428473.mpg;;;;8293.jpg/;/Hongarije/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+BUENOS AIRES;2147428395.mpg;;;;7394.jpg/;/Argentinië/;36-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+BUITENPOST;2147430019.mpg;;;;7328.jpg/8358.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/40-r.bmp/1-l.bmp/11-r.bmp
+BULGARIJE;02817.mpg;;6763.jpg;;6973.jpg/7016.jpg/;Landen/Bulgarije/Werelddeel Europa/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+BUNNIK;2147428396.mpg;;;;7845.jpg/8337.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+BURGAS;2147428485.mpg;;;;7446.jpg/;Bulgarije/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+BURGENLAND;2147428738.mpg;;;;7730.jpg/;Oostenrijk/;35-l.bmp/42-r.bmp/1-l.bmp/1-r.bmp
+BURKINA FASO;2147428222.mpg;;6884.jpg;;7100.jpg/7101.jpg/;Landen/Burkina Faso/Werelddeel Afrika/;35-l.bmp/34-r.bmp/35-l.bmp/64-r.bmp
+BUSSUM;2147430020.mpg;;;;8359.jpg/7684.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+CÁDIZ;2147429565.mpg;;;;7806.jpg/;Spanje/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+CAESAREA;2147429451.mpg;;;;7553.jpg/;Israël/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+CAIRNS;2147429566.mpg;;;;7400.jpg/;Australië/;15-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+CAÏRO;2147428739.mpg;;;;7469.jpg/;Egypte/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+CALCUTTA / KOLKATA;2147431190.mpg;;;;8191.jpg/;India/;1-l.bmp/12-r.bmp/36-l.bmp/36-r.bmp
+CALGARY;2147429567.mpg;;;;7452.jpg/;Canada/;51-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+CALIFORNIË;2147428488.mpg;;;;7890.jpg/;Verenigde Staten/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+CAMBODJA;2147428223.mpg;;6885.jpg;;7105.jpg/7106.jpg/;Landen/Cambodja/Werelddeel Azië/;1-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+CAMBRIDGE;2147428489.mpg;;;;7865.jpg/;;1-l.bmp/12-r.bmp/45-l.bmp/45-r.bmp
+CANADA;03431.mpg;;6764.jpg;;8204.jpg/8305.jpg/;Landen/Canada/Werelddeel Noord-Amerika/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+CANARISCHE EILANDEN;2147429809.mpg;;;;8033.jpg/;Spanje/;36-l.bmp/36-r.bmp/1-l.bmp/12-r.bmp
+CANBERRA;2147430658.mpg;;;;8015.jpg/;/Australië/;40-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+CANCÚN;2147428490.mpg;;;;7646.jpg/;Mexico/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CAPELLE AAN DEN IJSSEL;2147428491.mpg;;;;7935.jpg/8360.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+CARDIFF;2147428492.mpg;;;;7866.jpg/;;1-l.bmp/12-r.bmp/45-l.bmp/45-r.bmp
+CARDIFF...;2147428493.mpg;;;;8137.jpg/;;36-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CASABLANCA;2147429568.mpg;;;;7641.jpg/;Marokko/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CATALONIË;2147428740.mpg;;;;7807.jpg/;Spanje/;54-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+CELJE;2147430021.mpg;;;;7593.jpg/;Slovenië/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CHARLEROI;2147428224.mpg;;;;7411.jpg/;België/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CHENNAI / MADRAS;2147429810.mpg;;;;8192.jpg/;India/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+CHICAGO;2147428495.mpg;;;;8560.jpg/;Verenigde Staten/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CHILI;2147428225.mpg;;6765.jpg;;8312.jpg/8504.jpg/;Landen/Chili/Werelddeel Zuid-Amerika/;1-l.bmp/60-r.bmp/1-l.bmp/1-r.bmp
+CHINA;03433.mpg;3988.jpg/;6766.jpg;;7107.jpg/7108.jpg/;Landen/China/Werelddeel Azië/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+CHRISTCHURCH;2147429569.mpg;;;;7654.jpg/;Nieuw Zeeland/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+CHUR;2147428496.mpg;;;;7966.jpg/;Zwitserland/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+CLERMONT FERRAND;2147428397.mpg;;;;7465.jpg/;Frankrijk/;1-l.bmp/8-r.bmp/1-l.bmp/64-r.bmp
+COEVORDEN;2147429570.mpg;;;;7318.jpg/8361.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+COIMBATORE;2147428497.mpg;;;;8195.jpg/;India/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+COIMBRA;2147428742.mpg;;;;7763.jpg/;Portugal/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+COLOMBIA;2147428445.mpg;;6768.jpg;;8313.jpg/8505.jpg/;Landen/Colombia/Werelddeel Zuid-Amerika/;35-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+COLORADO;2147428498.mpg;;;;7892.jpg/;Verenigde Staten/;1-l.bmp/74-r.bmp/1-l.bmp/63-r.bmp
+CONTINENT / WERELDDEEL;2147424251.mpg;;;;;Topografie/;54-l.bmp/54-r.bmp/11-l.bmp/1-r.bmp
+CORK;2147430022.mpg;;;;7549.jpg/;Ierland/;1-l.bmp/60-r.bmp/1-l.bmp/1-r.bmp
+CORSICA;2147428743.mpg;;;;7488.jpg/;Frankrijk/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+CORUÑA, LA;2147428361.mpg;;;;7808.jpg/;Spanje/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+COSTA BRAVA;2147430023.mpg;;;;7809.jpg/;Spanje/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+COSTA RICA;2147428226.mpg;;6886.jpg;;8205.jpg/8242.jpg/;Landen/Costa Rica/Werelddeel Noord-Amerika/;1-l.bmp/8-r.bmp/1-l.bmp/69-r.bmp
+CÔTE -D'OR;2147430659.mpg;;;;8290.jpg/;Frankrijk/;35-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+COVENTRY;2147428499.mpg;;;;7867.jpg/;;1-l.bmp/12-r.bmp/36-l.bmp/67-r.bmp
+CUBA;03421.mpg;;6769.jpg;;8206.jpg/8306.jpg/;Landen/Cuba/Werelddeel Noord-Amerika/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+CULEMBORG;2147429813.mpg;;;;8165.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+CURAÇAO;2147428227.mpg;;6770.jpg;;8539.jpg/8540.jpg/;Nederlandse Antillen/;35-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+CUSCO;2147428500.mpg;;;;7764.jpg/;Peru/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+CYPRUS;2147428228.mpg;;6771.jpg;;7109.jpg/7110.jpg/;Landen/Cyprus/Werelddeel Azië/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+DACHAU;2147429571.mpg;;;;6980.jpg/;Duitsland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DAKAR;2147428398.mpg;;;;7791.jpg/;Senegal/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+DALLAS;2147428501.mpg;;;;8558.jpg/;Verenigde Staten/;1-l.bmp/63-r.bmp/1-l.bmp/1-r.bmp
+DAMASCUS;2147429020.mpg;;;;7991.jpg/;/Syrië/;1-l.bmp/25-r.bmp/1-l.bmp/1-r.bmp
+DAR ES SALAAM;2147429814.mpg;;;;7821.jpg/;Tanzania/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+DARWIN;2147429572.mpg;;;;7401.jpg/;Australië/;1-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+DAUGAVPILS;2147428502.mpg;;;;7605.jpg/;Letland/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+DAVOS;2147428503.mpg;;;;7967.jpg/;Zwitserland/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+DEBRECEN;2147428504.mpg;;;;7518.jpg/;Hongarije/;1-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+DELFT;03543.mpg;3977.jpg/;;;7936.jpg/8362.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+DELFZIJL;2147428229.mpg;;;;8265.jpg/8363.jpg/;Nederland: plaatsnamen/Provincie Groningen/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+DEN BOSCH/ 'S HERTOGENBOSCH;2147424311.mpg;6087.jpg/;;;8016.jpg/8364.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Noord-Brabant/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+DEN BOSCH/ 'S HERTOGENBOSCH...;2147424312.mpg;6088.jpg/;;;8017.jpg/8365.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Noord-Brabant/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+DEN DOLDER;2147429573.mpg;;;;7846.jpg/8366.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DEN HAAG;03542.mpg;6089.jpg/;;;7937.jpg/8367.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Zuid-Holland/;1-l.bmp/23-r.bmp/1-l.bmp/1-r.bmp
+DEN HAAG...;03541.mpg;6090.jpg/4015.jpg/;;;8155.jpg/8368.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Zuid-Holland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+DEN HELDER;2147428230.mpg;;;;7685.jpg/8369.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+DENEMARKEN;2147428231.mpg;;6753.jpg;;6984.jpg/7017.jpg/;Landen/Denemarken/Werelddeel Europa/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+DENVER;2147429574.mpg;;;;8557.jpg/;Verenigde Staten/;1-l.bmp/63-r.bmp/1-l.bmp/1-r.bmp
+DETROIT;2147428505.mpg;;;;8555.jpg/;Verenigde Staten/;1-l.bmp/63-r.bmp/1-l.bmp/1-r.bmp
+DEVENTER;03555.mpg;;;;7358.jpg/8370.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+DIJON;2147430896.mpg;;;;8232.jpg/;Frankrijk/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DODOMA;2147429815.mpg;;;;7822.jpg/;/Tanzania/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DOETINCHEM;2147429575.mpg;;;;8166.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+DOKKUM;2147428234.mpg;;;;7329.jpg/8371.jpg/;Nederland: plaatsnamen/Provincie Friesland/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+DOLOMIETEN;2147428745.mpg;;;;7568.jpg/;Wereld: gebergte en vulkanen/Italië/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+DOMINICAANSE REPUBLIEK;2147428235.mpg;;6772.jpg;;8241.jpg/8251.jpg/;Landen/Dominicaanse Republiek/Werelddeel Noord-Amerika/;1-l.bmp/69-r.bmp/1-l.bmp/63-r.bmp
+DONAU;2147430024.mpg;;;;8124.jpg/;Wereld: wateren/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+DOORN;2147428236.mpg;;;;7847.jpg/8372.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;36-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DORDRECHT;2147428401.mpg;;;;7938.jpg/8373.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+DORNBIRN;2147429576.mpg;;;;7731.jpg/;Oostenrijk/;1-l.bmp/13-r.bmp/1-l.bmp/1-r.bmp
+DORP;00347.mpg;;;;;Topografie/;1-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+DORTMUND;2147429816.mpg;;;;6981.jpg/;Duitsland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DRACHTEN;03561.mpg;;;;8159.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+DRENTHE;02372.mpg;;;;7370.jpg/8326.jpg/;Nederland: provincies/Provincie Drenthe/;1-l.bmp/63-r.bmp/1-l.bmp/74-r.bmp
+DRESDEN;2147428344.mpg;;;;6982.jpg/;Duitsland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+DRIEBERGEN;2147430025.mpg;;;;7848.jpg/8374.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/70-r.bmp/1-l.bmp/74-r.bmp
+DUBLIN;2147428237.mpg;;;;7550.jpg/;/Ierland/;1-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+DUBROVNIK;2147428746.mpg;;;;7591.jpg/;Kroatië/;1-l.bmp/46-r.bmp/1-l.bmp/1-r.bmp
+DUITSLAND;2147424316.mpg;4010.jpg/6154.jpg/;6752.jpg;;6965.jpg/6966.jpg/6967.jpg/;Landen/Duitsland/Werelddeel Europa/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+DURBAN;2147428404.mpg;;;;7923.jpg/;Zuid-Afrika/;1-l.bmp/63-r.bmp/1-l.bmp/1-r.bmp
+DURRËS;2147429577.mpg;;;;7383.jpg/;Albanië/;40-l.bmp/12-r.bmp/34-l.bmp/34-r.bmp
+DÜSSELDORF;2147428345.mpg;;;;6983.jpg/;Duitsland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+ECHT;2147428238.mpg;;;;7604.jpg/8376.jpg/;Nederland: plaatsnamen/Provincie Limburg/;36-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+ECUADOR;2147428239.mpg;;6774.jpg;;8314.jpg/8506.jpg/;Landen/Ecuador/Werelddeel Zuid-Amerika/;34-l.bmp/6-r.bmp/1-l.bmp/1-r.bmp
+EDE;2147428405.mpg;;;;8167.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;36-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+EDINBURGH;2147428507.mpg;;;;7869.jpg/;;54-l.bmp/40-r.bmp/36-l.bmp/36-r.bmp
+EGER;2147428509.mpg;;;;7519.jpg/;Hongarije/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+EGYPTE;2147428240.mpg;;6773.jpg;;7122.jpg/7123.jpg/;Landen/Egypte/Werelddeel Afrika/Werelddeel Azië/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+EILAND;00625.mpg;6176.jpg/;;;;;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+EILAT;2147428242.mpg;;;;7554.jpg/;Israël/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+EINDHOVEN;03553.mpg;;;;7662.jpg/8377.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+EL SALVADOR;2147428243.mpg;;6897.jpg;;8219.jpg/;Landen/El Salvador/Werelddeel Noord-Amerika/;1-l.bmp/6-r.bmp/1-l.bmp/3-r.bmp
+ELST-GLD;2147426326.mpg;;;;8168.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;40-l.bmp/40-r.bmp/36-l.bmp/36-r.bmp
+ELZAS;2147430844.mpg;;;;8133.jpg/;Frankrijk/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+EMMELOORD;2147429817.mpg;;;;8154.jpg/;Nederland: plaatsnamen/Provincie Flevoland/;74-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+EMMEN;2147428244.mpg;;;;8307.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+ENGELAND;03436.mpg;6180.jpg/;6932.jpg;;7870.jpg/;Verenigd Koninkrijk/;1-l.bmp/43-r.bmp/1-l.bmp/1-r.bmp
+ENGELAND...;2147429818.mpg;;6943.jpg;;;Landen/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ENSCHEDE;2147430026.mpg;;;;7359.jpg/8378.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;35-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+ENTER;2147430027.mpg;;;;7360.jpg/8379.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+ERITREA;2147429820.mpg;;;;7126.jpg/7127.jpg/;Landen/Eritrea/Werelddeel Afrika/;1-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+ERMELO;2147428511.mpg;;;;8169.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+ESSAOUIRA;2147429578.mpg;;;;7642.jpg/;Marokko/;35-l.bmp/59-r.bmp/1-l.bmp/1-r.bmp
+ESSEN;2147428346.mpg;;;;6985.jpg/;Duitsland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+ESTLAND;2147428248.mpg;;6898.jpg;;7009.jpg/7018.jpg/;Landen/Estland/Werelddeel Europa/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ESTREMADURA;2147428747.mpg;;;;7766.jpg/;Portugal/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+ETHIOPIË;2147428249.mpg;;;;7132.jpg/7133.jpg/;Landen/Ethiopie/Werelddeel Afrika/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+ETNA;2147429821.mpg;;;;7569.jpg/;Wereld: gebergte en vulkanen/Italië/;8-l.bmp/15-r.bmp/1-l.bmp/65-r.bmp
+EUROPA;41992.mpg;;;;8240.jpg/;Werelddelen/;1-l.bmp/6-r.bmp/1-l.bmp/1-r.bmp
+EUROPOORT;2147429579.mpg;;;;8292.jpg/;Provincie Zuid-Holland/;36-l.bmp/36-r.bmp/1-l.bmp/54-r.bmp
+FAERØER;2147431140.mpg;;;;8222.jpg/;Denemarken/;35-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+FARO;2147428768.mpg;;;;7767.jpg/;Portugal/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+FÁTIMA;2147428251.mpg;;;;7768.jpg/;Portugal/;1-l.bmp/69-r.bmp/1-l.bmp/1-r.bmp
+FELDKIRCH;2147429581.mpg;;;;7733.jpg/;Oostenrijk/;4-l.bmp/4-r.bmp/36-l.bmp/36-r.bmp
+FEZ;2147429582.mpg;;;;7643.jpg/;Marokko/;53-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+FIER;2147429583.mpg;;;;7384.jpg/;Albanië/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+FIJI;2147429379.mpg;;;;7278.jpg/7287.jpg/;Landen/Fiji/Werelddeel Oceanië/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+FILIPIJNEN;03435.mpg;;6777.jpg;;7279.jpg/8075.jpg/;Landen/Filippijnen/Werelddeel Azië/;37-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+FINLAND;02830.mpg;;6778.jpg;;7010.jpg/7076.jpg/;Landen/Finland/Werelddeel Europa/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+FLEVOLAND;2147428748.mpg;;;;8184.jpg/8328.jpg/;Nederland: provincies/Provincie Flevoland/;1-l.bmp/64-r.bmp/1-l.bmp/35-r.bmp
+FLEVOLAND...;2147430689.mpg;;;;8185.jpg/8329.jpg/;Nederland: provincies/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+FLORENCE;2147429584.mpg;;;;7570.jpg/;Italië/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+FLORES;2147429585.mpg;;;;7538.jpg/;Indonesië/;48-l.bmp/40-r.bmp/1-l.bmp/12-r.bmp
+FLORIANÓPOLIS;2147428513.mpg;;;;7437.jpg/;Brazilië/;25-l.bmp/25-r.bmp/1-l.bmp/1-r.bmp
+FLORIDA;2147428893.mpg;;;;7896.jpg/;Verenigde Staten/;1-l.bmp/64-r.bmp/1-l.bmp/51-r.bmp
+FRANEKER;2147428253.mpg;;;;7331.jpg/8380.jpg/;Nederland: plaatsnamen/Provincie Friesland/;16-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+FRANKFURT am Main;2147429822.mpg;;;;6986.jpg/;Duitsland/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+FRANKRIJK;2147428749.mpg;6211.jpg/;6779.jpg;;7011.jpg/7077.jpg/;Landen/Frankrijk/Werelddeel Europa/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+FREDERIKSHAVN;2147428256.mpg;;;;8223.jpg/;Denemarken/;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+FRIBOURG;2147430028.mpg;;;;7964.jpg/;Zwitserland/;35-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+FRIESLAND;02365.mpg;;;;7371.jpg/8325.jpg/;Nederland: provincies/Provincie Friesland/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+FUNCHAL;2147429823.mpg;;;;8030.jpg/;Portugal/;36-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+FYN;2147428257.mpg;;;;8224.jpg/;Denemarken/;1-l.bmp/64-r.bmp/1-l.bmp/1-r.bmp
+GALICIË;2147428365.mpg;;;;7810.jpg/;Spanje/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+GALILEA;2147429453.mpg;;;;7555.jpg/;Israël/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+GAMBIA;2147428444.mpg;;6781.jpg;;7136.jpg/7137.jpg/7138.jpg/;Landen/Gambia/Werelddeel Afrika/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+GANGES;2147429824.mpg;;;;8196.jpg/;India/;1-l.bmp/43-r.bmp/1-l.bmp/1-r.bmp
+GAO;2147430661.mpg;;;;7638.jpg/;Mali/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+GAZA;2147428750.mpg;;;;7760.jpg/;Israël/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+GELDERLAND;02370.mpg;;;;8330.jpg/8186.jpg/;Nederland: provincies/Provincie Gelderland/;1-l.bmp/5-r.bmp/1-l.bmp/11-r.bmp
+GELDERMALSEN;2147429725.mpg;;;;8170.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/2-r.bmp/1-l.bmp/12-r.bmp
+GELDROP;2147428259.mpg;;;;7663.jpg/8381.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+GELE RIVIER;2147429825.mpg;;;;7459.jpg/;Wereld: wateren/China/;1-l.bmp/15-r.bmp/36-l.bmp/36-r.bmp
+GELEEN;2147428260.mpg;;;;7620.jpg/8382.jpg/;Nederland: plaatsnamen/Provincie Limburg/;12-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+GELSENKIRCHEN;2147429826.mpg;;;;6987.jpg/;Duitsland/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+GENDT;2147430662.mpg;;;;8135.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+GENÈVE;2147428408.mpg;;;;7968.jpg/;Zwitserland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+GENT;2147429827.mpg;;;;7412.jpg/;België/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+GENUA;2147429586.mpg;;;;7571.jpg/;Italië/;1-l.bmp/39-r.bmp/1-l.bmp/1-r.bmp
+GEORGIË;2147429828.mpg;;6871.jpg;;7209.jpg/7210.jpg/;Landen/Georgië/Werelddeel Europa/Werelddeel Azië/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+GHANA;2147428264.mpg;;6915.jpg;;7139.jpg/7140.jpg/;Landen/Ghana/Werelddeel Afrika/;35-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+GIETHOORN;2147430030.mpg;;;;7361.jpg/8383.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+GLASGOW;2147428265.mpg;;;;7871.jpg/;;3-l.bmp/3-r.bmp/54-l.bmp/54-r.bmp
+GOES;2147429587.mpg;;;;8384.jpg/7932.jpg/;Nederland: plaatsnamen/Provincie Zeeland/;1-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+GORINCHEM;2147429588.mpg;;;;7939.jpg/8385.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+GÖTEBORG;2147430031.mpg;;;;7969.jpg/;Zweden/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+GOUDA;03547.mpg;;;;7940.jpg/8387.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;40-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+GRAN CANARIA;2147429829.mpg;;;;8018.jpg/;Spanje/;33-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+GRANADA;2147429589.mpg;;;;7811.jpg/;Spanje/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+GRAVE;2147428266.mpg;;;;7664.jpg/8388.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+GRAZ;2147428267.mpg;;;;7734.jpg/;Oostenrijk/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+GRENOBLE;2147429830.mpg;;;;7489.jpg/;Frankrijk/;36-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+GRIEKENLAND;2147429831.mpg;8285.jpg/8286.jpg/;6782.jpg;;7012.jpg/7078.jpg/;Landen/Griekenland/Werelddeel Europa/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+GRIEKENLAND...;2147429832.mpg;8287.jpg/;6937.jpg;;;Landen/Griekenland/Werelddeel Europa/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+GROENLAND;2147431144.mpg;;6783.jpg;;8208.jpg/8209.jpg/;Denemarken/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+GRONINGEN;02373.mpg;6302.jpg/;;;7348.jpg/7372.jpg/8324.jpg/;Nederland: provincies/Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Groningen/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+GROOT-BRITTANNIË;2147429590.mpg;;6930.jpg;;7872.jpg/;Verenigd Koninkrijk/;54-l.bmp/54-r.bmp/54-l.bmp/54-r.bmp
+GROOTEGAST;2147428268.mpg;;;;8288.jpg/8389.jpg/;Nederland: plaatsnamen/Provincie Groningen/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+GROSSGLOCKNER;2147429591.mpg;;;;7735.jpg/;Oostenrijk/;54-l.bmp/54-r.bmp/1-l.bmp/26-r.bmp
+GROTE ANTILLEN;2147431146.mpg;;;;;;74-l.bmp/74-r.bmp/1-l.bmp/12-r.bmp
+GROTE OCEAAN;2147430984.mpg;;;;8245.jpg/;Wereld: wateren/;74-l.bmp/74-r.bmp/1-l.bmp/74-r.bmp
+GROU;2147430032.mpg;;;;8160.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+GROZNY;2147428516.mpg;;;;8523.jpg/;Rusland/;1-l.bmp/25-r.bmp/1-l.bmp/1-r.bmp
+GUADELOUPE;2147430663.mpg;;;;8541.jpg/8542.jpg/;Frankrijk/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+GUATEMALA;2147428269.mpg;;6916.jpg;;8210.jpg/8257.jpg/;Landen/Guatamala/Werelddeel Noord-Amerika/;3-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+GUIMARAES;2147428751.mpg;;;;7516.jpg/;Portugal/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+GUINEE;2147430033.mpg;;6917.jpg;;7142.jpg/7143.jpg/;Landen/Guinee/Werelddeel Afrika/;35-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+GUINEE-BISSAU;2147429834.mpg;;8289.jpg;;7144.jpg/7145.jpg/7146.jpg/;Landen/Werelddeel Afrika/;1-l.bmp/59-r.bmp/1-l.bmp/40-r.bmp
+GUYANA;2147429593.mpg;;6784.jpg;;8315.jpg/8507.jpg/;Landen/Werelddeel Zuid-Amerika/Guyana/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+GYÓR;2147428518.mpg;;;;7520.jpg/;Hongarije/;1-l.bmp/59-r.bmp/1-l.bmp/1-r.bmp
+HAARLEM;03562.mpg;6321.jpg/;;;7686.jpg/8390.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Noord-Holland/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+HAARLEM...;2147429835.mpg;6323.jpg/;;;;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Noord-Holland/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+HAIFA;2147428271.mpg;;;;7556.jpg/;Israël/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+HAÏTI;2147428272.mpg;;6918.jpg;;8211.jpg/;Landen/Haïti/Werelddeel Noord-Amerika/;1-l.bmp/45-r.bmp/1-l.bmp/50-r.bmp
+HAMBURG;2147429836.mpg;;;;6963.jpg/6964.jpg/;Duitsland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+HANNOVER;2147429837.mpg;;;;6988.jpg/;Duitsland/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+HARDERWIJK;2147429838.mpg;;;;8171.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+HAREN;03532.mpg;;;;8391.jpg/7350.jpg/;Nederland: plaatsnamen/Provincie Groningen/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+HASSELT;2147428273.mpg;;;;7413.jpg/;België/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+HAVANA;2147428520.mpg;;;;7467.jpg/;Cuba/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+HAVELTE;2147429840.mpg;;;;7319.jpg/8393.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+HAWAII;2147428521.mpg;;;;7898.jpg/;Verenigde Staten/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+HEBRON;2147429466.mpg;;;;7557.jpg/;Israël/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+HEERENVEEN;2147428274.mpg;;;;7334.jpg/8394.jpg/;Nederland: plaatsnamen/Provincie Friesland/;38-l.bmp/38-r.bmp/34-l.bmp/34-r.bmp
+HEERLEN;2147428275.mpg;;;;7621.jpg/8395.jpg/;Nederland: plaatsnamen/Provincie Limburg/;38-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+HELMOND;2147428276.mpg;;;;7665.jpg/8396.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+HELSINKI;2147428752.mpg;;;;7476.jpg/;/Finland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+HENDRIK IDO AMBACHT;2147428753.mpg;;;;7941.jpg/8397.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+HENGELO;2147428410.mpg;;;;7362.jpg/8398.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+HILVERSUM;2147428278.mpg;;;;7687.jpg/8399.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+HIMALAYA;2147428522.mpg;;;;7995.jpg/;Wereld: gebergte en vulkanen/India/Nepal/;1-l.bmp/40-r.bmp/1-l.bmp/54-r.bmp
+HINDELOOPEN;2147429594.mpg;;;;7335.jpg/8400.jpg/;Nederland: plaatsnamen/Provincie Friesland/;37-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+HIROSHIMA;2147430664.mpg;;;;8107.jpg/;Japan/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+HOEK VAN HOLLAND;2147428754.mpg;;;;7942.jpg/8401.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;35-l.bmp/35-r.bmp/1-l.bmp/48-r.bmp
+HOENSBROEK;2147428279.mpg;;;;7622.jpg/8402.jpg/;Nederland: plaatsnamen/Provincie Limburg/;1-l.bmp/45-r.bmp/5-l.bmp/5-r.bmp
+HOLLYWOOD;2147429595.mpg;;;;8561.jpg/;Verenigde Staten/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+HOLLYWOOD...;2147429596.mpg;;;;8246.jpg/;Verenigde Staten/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+HOLTEN;2147430665.mpg;;;;7363.jpg/8403.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+HONDURAS;2147428184.mpg;;6785.jpg;;8214.jpg/8258.jpg/;Landen/Honduras/Werelddeel Noord-Amerika/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+HONGARIJE;02818.mpg;;6787.jpg;;7013.jpg/7079.jpg/;Landen/Hongarije/Werelddeel Europa/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+HONGKONG;04322.mpg;;6786.jpg;;7460.jpg/8520.jpg/;China/;1-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+HONOLULU;2147428524.mpg;;;;7900.jpg/;Verenigde Staten/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+HOOFDDORP;2147428280.mpg;;;;7688.jpg/8404.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/34-r.bmp/1-l.bmp/28-r.bmp
+HOOFDSTAD;43401.mpg;3942.jpg/6377.jpg/;;;;Topografie/;1-l.bmp/34-r.bmp/1-l.bmp/12-r.bmp
+HOOGEVEEN;2147428412.mpg;;;;8405.jpg/7320.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+HOOGEZAND;2147428281.mpg;;;;8269.jpg/8406.jpg/;Nederland: plaatsnamen/Provincie Groningen/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+HOORN;2147429843.mpg;;;;7689.jpg/8407.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+HOUSTON;2147428525.mpg;;;;8562.jpg/;Verenigde Staten/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+HRADEC KRÁLOVÉ;2147430035.mpg;;;;7837.jpg/;Tsjechië/;35-l.bmp/55-r.bmp/1-l.bmp/40-r.bmp
+HUELVA;2147429597.mpg;;;;7812.jpg/;Spanje/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+HUISSEN;2147430666.mpg;;;;8136.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+IAULIAI;2147428674.mpg;;;;7619.jpg/;Litouwen/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+IBENIK;2147428843.mpg;;;;7601.jpg/;Kroatië/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+IBIZA;2147429598.mpg;;;;8034.jpg/;Spanje/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+IERLAND;2147428282.mpg;;6788.jpg;;7019.jpg/7080.jpg/;Landen/Ierland/Werelddeel Europa/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+IGUAÇU;2147428514.mpg;;;;7930.jpg/8503.jpg/;Brazilië/;74-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+IJMUIDEN;2147428756.mpg;;;;7691.jpg/8408.jpg/6956.jpg/6957.jpg/6961.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+IJSLAND;2147429844.mpg;;6789.jpg;;7020.jpg/7081.jpg/;Landen/IJsland/Werelddeel Europa/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+IJSSEL;2147429599.mpg;;;;7706.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+IJSSELMEER;2147430845.mpg;;;;7707.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/1-l.bmp/74-r.bmp
+ÎLE-DE-FRANCE;2147428526.mpg;;;;7490.jpg/;Frankrijk/;36-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+INDIA;03445.mpg;;6790.jpg;;7211.jpg/7212.jpg/;Landen/India/Werelddeel Azië/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+INDONESIË;2147428284.mpg;;6791.jpg;;7282.jpg/8076.jpg/;Landen/Indonesië/Werelddeel Azië/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+INDORE;2147428527.mpg;;;;8197.jpg/;India/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+INNSBRUCK;2147428285.mpg;;;;7736.jpg/;Oostenrijk/;53-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+INTERLAKEN;2147428528.mpg;;;;7970.jpg/;Zwitserland/;16-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+IRAK;2147429845.mpg;;6793.jpg;;7213.jpg/7214.jpg/;Landen/Irak/Werelddeel Azië/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+IRAN;04309.mpg;;6792.jpg;;7215.jpg/7216.jpg/;Landen/Iran/Werelddeel Azië/;54-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ISLAMABAD;2147429601.mpg;;;;7986.jpg/;/Pakistan/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+ISRAËL;43048.mpg;;6794.jpg;;7217.jpg/7218.jpg/;Landen/Israël/Werelddeel Azië/;1-l.bmp/23-r.bmp/1-l.bmp/1-r.bmp
+ISRAËL...;2147429400.mpg;3940.jpg/;6795.jpg;;8056.jpg/8554.jpg/;Landen/Israël/Werelddeel Azië/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+ISTANBUL;2147428286.mpg;;;;7830.jpg/;Turkije/;1-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+ITALIË;02814.mpg;6432.jpg/3985.jpg/;6796.jpg;;7021.jpg/7082.jpg/;Landen/Italië/Werelddeel Europa/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+IVOORKUST;2147428185.mpg;;6797.jpg;;7147.jpg/7148.jpg/;Landen/Ivoorkust/Werelddeel Afrika/;53-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+IZMIR;2147428529.mpg;;;;7831.jpg/;Turkije/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+JAÉN;2147429602.mpg;;;;7813.jpg/;Spanje/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+JAKARTA;2147429603.mpg;;;;7539.jpg/;/Indonesië/;35-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+JAMAICA;2147428287.mpg;;6798.jpg;;8215.jpg/;Landen/Jamaica/Werelddeel Noord-Amerika/;34-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+JANAKPUR;2147429604.mpg;;;;7983.jpg/;Nepal/;35-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+JAPAN;03432.mpg;;6754.jpg;;7219.jpg/7220.jpg/;Landen/Japan/Werelddeel Azië/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+JEMEN;2147429736.mpg;;8270.jpg;;7221.jpg/7222.jpg/;Landen/Werelddeel Azië/;26-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+JEREVAN;2147428510.mpg;;;;7397.jpg/;/Armenië/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+JERICHO;2147429402.mpg;;;;7558.jpg/;Israël/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+JERUZALEM;50050.mpg;;;;7559.jpg/7759.jpg/;/Israël/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+JOEGOSLAVIË;02821.mpg;;;;;;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+JOHANNESBURG;2147429605.mpg;;;;7924.jpg/;Zuid-Afrika/;1-l.bmp/50-r.bmp/1-l.bmp/1-r.bmp
+JORDANIË;2147428186.mpg;;6800.jpg;;7223.jpg/7224.jpg/;Landen/Jordanië/Werelddeel Azië/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+JOURE;2147428574.mpg;;;;7336.jpg/8409.jpg/;Nederland: plaatsnamen/Provincie Friesland/;31-l.bmp/31-r.bmp/1-l.bmp/1-r.bmp
+JUTLAND;2147428188.mpg;;;;8225.jpg/;Denemarken/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+JYVÄSKYLA;2147430036.mpg;;;;7477.jpg/;Finland/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+KAAPSTAD;2147429607.mpg;;;;7925.jpg/;/Zuid-Afrika/;41-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+KAAPVERDIË;2147428288.mpg;;6802.jpg;;7149.jpg/7150.jpg/7151.jpg/;Landen/Kaapverdië/Werelddeel Afrika/;1-l.bmp/12-r.bmp/1-l.bmp/2-r.bmp
+KAISERSLAUTERN;2147425547.mpg;;;;6990.jpg/;Duitsland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+KAMEROEN;2147429737.mpg;;6801.jpg;;7152.jpg/7153.jpg/;Landen/Kameroen/Werelddeel Afrika/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+KAMPALA;2147430687.mpg;;;;8103.jpg/;/Oeganda/;40-l.bmp/42-r.bmp/1-l.bmp/1-r.bmp
+KAMPEN;2147429738.mpg;;;;7364.jpg/8410.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+KANAAL;00946.mpg;;;;;Topografie/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+KAPOSVÁR;2147428531.mpg;;;;7521.jpg/;Hongarije/;1-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+KARINTHIË;2147428758.mpg;;;;7737.jpg/;Oostenrijk/;18-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+KARMEL;2147429408.mpg;;;;7560.jpg/;Israël/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+KASHMIR India;2147428530.mpg;;;;8533.jpg/;India/;40-l.bmp/42-r.bmp/3-l.bmp/3-r.bmp
+KASHMIR Pakistan;2147429608.mpg;;;;8532.jpg/;Pakistan/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+KATHMANDU;2147429609.mpg;;;;7984.jpg/;/Nepal/;36-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+KATWIJK;2147430037.mpg;;;;7943.jpg/8411.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+KAUNAS;2147428532.mpg;;;;7616.jpg/;Litouwen/;1-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+KAZACHSTAN;2147428289.mpg;;6889.jpg;;7227.jpg/7228.jpg/;Landen/Kazachstan/Werelddeel Azië/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+KENIA;04318.mpg;;6803.jpg;;7154.jpg/7155.jpg/;Landen/Kenia/Werelddeel Afrika/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+KEULEN;2147425548.mpg;;;;6992.jpg/;Duitsland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+KIEL;2147428347.mpg;;;;6993.jpg/;Duitsland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+KIEV;2147424956.mpg;;;;7732.jpg/;/Oekraïne/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+KITZBÜHEL;2147428290.mpg;;;;7738.jpg/;Oostenrijk/;1-l.bmp/13-r.bmp/1-l.bmp/1-r.bmp
+KLAGENFURT;2147428291.mpg;;;;7739.jpg/;Oostenrijk/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+KLAIPÉDA;2147428535.mpg;;;;7617.jpg/;Litouwen/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+KLEINE ANTILLEN;2147431149.mpg;;;;8551.jpg/8550.jpg/;;1-l.bmp/2-r.bmp/1-l.bmp/12-r.bmp
+KOBLENZ;2147428536.mpg;;;;6994.jpg/;Duitsland/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+KOEWEIT;2147428293.mpg;;6866.jpg;;7283.jpg/8079.jpg/;Landen/Koeweit/Werelddeel Azië/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+KOEWEIT hoofdstad;2147428292.mpg;;;;7587.jpg/;/Koeweit/;15-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+KOLKATA / CALCUTTA;2147428487.mpg;;;;8194.jpg/;India/;1-l.bmp/12-r.bmp/36-l.bmp/36-r.bmp
+KONGO;2147429812.mpg;;;;7128.jpg/7129.jpg/;Landen/Werelddeel Afrika/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+KONGO, DEMOCRATISCHE REPUBLIEK;2147428294.mpg;;6890.jpg;;7130.jpg/7131.jpg/;Landen/Werelddeel Afrika/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+KOPENHAGEN;2147428295.mpg;;;;8226.jpg/;/Denemarken/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+KOPER;2147429610.mpg;;;;7594.jpg/;Slovenië/;1-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+KORCË;2147429611.mpg;;;;7386.jpg/;Albanië/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+KOREA;2147428296.mpg;;;;;Landen/Korea/;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+KORTRIJK;2147428297.mpg;;;;7414.jpg/;België/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+KOSOVO;2147428765.mpg;;;;7588.jpg/;Landen/Werelddeel Europa/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+KRAGUJEVAC;2147428759.mpg;;;;7790.jpg/;Servië/;1-l.bmp/39-r.bmp/1-l.bmp/1-r.bmp
+KRAKAU;2147429739.mpg;;;;7772.jpg/;Polen/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+KRANJ;2147428760.mpg;;;;7595.jpg/;Slovenië/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+KRETA;2147428298.mpg;;;;7513.jpg/;Griekenland/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+KRISTIANSAND;2147428537.mpg;;;;7722.jpg/;Noorwegen/;1-l.bmp/69-r.bmp/22-l.bmp/22-r.bmp
+KROATIË;2147428761.mpg;;6805.jpg;;7023.jpg/7024.jpg/;Landen/Kroatië/Werelddeel Europa/;1-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+KRUJË;2147429612.mpg;;;;7387.jpg/;Albanië/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+KUALA LUMPUR;2147429613.mpg;;;;7636.jpg/;/Maleisië/;1-l.bmp/65-r.bmp/1-l.bmp/51-r.bmp
+KULDIGA;2147428539.mpg;;;;7606.jpg/;Letland/;1-l.bmp/38-r.bmp/1-l.bmp/54-r.bmp
+KUOPIO;2147430038.mpg;;;;7478.jpg/;Finland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+KYOTO;2147424957.mpg;;;;7583.jpg/;Japan/;51-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LA PAZ;2147428540.mpg;;;;7435.jpg/;Bolivia/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LAÇ;2147429614.mpg;;;;7388.jpg/;Albanië/;8-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+LAND;2147426425.mpg;5736.jpg/3972.jpg/;;;;Topografie/;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+LANGUEDOC;2147428548.mpg;;;;7491.jpg/;Frankrijk/;1-l.bmp/43-r.bmp/1-l.bmp/1-r.bmp
+LAOS;2147428299.mpg;;6895.jpg;;7284.jpg/7374.jpg/;Landen/Laos/Werelddeel Azië/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+LAPLAND;2147428762.mpg;;;;8019.jpg/;Finland/Rusland/Zweden/Noorwegen/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+LAS PALMAS;2147429615.mpg;;;;8035.jpg/;Spanje/;33-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+LAS VEGAS;2147429616.mpg;;;;8563.jpg/;Verenigde Staten/;1-l.bmp/51-r.bmp/1-l.bmp/48-r.bmp
+LAUSANNE;2147428542.mpg;;;;7971.jpg/;Zwitserland/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LEEDS;2147428543.mpg;;;;7873.jpg/;;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LEERDAM;2147430667.mpg;;;;8413.jpg/7944.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+LEEUWARDEN;2147428421.mpg;6611.jpg/;;;7337.jpg/8414.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Friesland/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+LEICESTER;2147428544.mpg;;;;7874.jpg/;;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+LEIDEN stad;2147427054.mpg;;;;7945.jpg/8415.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+LEIPZIG;2147429848.mpg;;;;6995.jpg/;Duitsland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+LEIRIA;2147428763.mpg;;;;7769.jpg/;Portugal/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+LEK;2147429617.mpg;;;;7708.jpg/;Nederland: wateren/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+LELYSTAD;2147424344.mpg;6609.jpg/;;;8156.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Flevoland/;1-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+LEMMER;2147429618.mpg;;;;8416.jpg/7338.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+LETLAND;2147428301.mpg;;6806.jpg;;7025.jpg/7026.jpg/;Landen/Letland/Werelddeel Europa/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LEUVEN;2147428302.mpg;;;;7415.jpg/;België/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+LIBANON;2147429410.mpg;;6807.jpg;;7231.jpg/7232.jpg/;Landen/Libanon/Werelddeel Azië/;32-l.bmp/32-r.bmp/1-l.bmp/1-r.bmp
+LIBERIA;2147430039.mpg;;6808.jpg;;7159.jpg/7160.jpg/;Landen/Liberia/Werelddeel Afrika/;51-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LIBIË;2147428305.mpg;;6867.jpg;;7161.jpg/7162.jpg/;Landen/Libië/Werelddeel Afrika/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+LIECHTENSTEIN;2147429619.mpg;;6809.jpg;;7027.jpg/;Landen/Werelddeel Europa/;36-l.bmp/51-r.bmp/36-l.bmp/3-r.bmp
+LIEPÃJA;2147428545.mpg;;;;7607.jpg/;Letland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+LILLE;2147428546.mpg;;;;7492.jpg/;Frankrijk/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LILLE...;2147428547.mpg;;;;8055.jpg/;Frankrijk/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+LIMA;2147428549.mpg;;;;7765.jpg/;/Peru/;35-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LIMBURG;01672.mpg;;;;7775.jpg/8336.jpg/;Nederland: provincies/Provincie Limburg/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LIMERICK;2147430040.mpg;;;;7552.jpg/;Ierland/;35-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+LINZ;2147428306.mpg;;;;7740.jpg/;Oostenrijk/;36-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LISSABON;2147428307.mpg;;;;7770.jpg/;/Portugal/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LITOUWEN;2147428308.mpg;;6810.jpg;;7028.jpg/7029.jpg/;Landen/Litouwen/Werelddeel Europa/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+LIVERPOOL;2147428550.mpg;;;;7875.jpg/;;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LJUBLJANA;2147428776.mpg;;;;7596.jpg/;/Slovenië/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+LOBITH;2147429849.mpg;;;;8172.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+LOCARNO;2147428551.mpg;;;;7973.jpg/;Zwitserland/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+LOMBOK;2147429620.mpg;;;;7542.jpg/;Indonesië/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LONDEN;2147428777.mpg;;;;7876.jpg/;/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+LOPIK;2147428778.mpg;;;;7849.jpg/8417.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+LOS ANGELES;2147428555.mpg;;;;8564.jpg/;Verenigde Staten/;1-l.bmp/51-r.bmp/1-l.bmp/2-r.bmp
+LUGANO;2147428556.mpg;;;;7974.jpg/;Zwitserland/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LUIK;2147428309.mpg;;;;7416.jpg/;België/;1-l.bmp/42-r.bmp/1-l.bmp/1-r.bmp
+LUSHNJË;2147429621.mpg;;;;7389.jpg/;Albanië/;36-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LUTJEGAST;2147428310.mpg;;;;8255.jpg/8418.jpg/;Nederland: plaatsnamen/Provincie Groningen/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+LUXEMBURG;2147428560.mpg;;6811.jpg;;7030.jpg/7031.jpg/;Landen/Luxemburg/Werelddeel Europa/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LUXEMBURG stad;2147428557.mpg;;;;7628.jpg/;Luxemburg/;1-l.bmp/51-r.bmp/35-l.bmp/11-r.bmp
+LUZERN;2147428562.mpg;;;;7972.jpg/;Zwitserland/;1-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+LUZERN...;2147428564.mpg;;;;8053.jpg/;Zwitserland/;1-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+LYON;2147430897.mpg;;;;8233.jpg/;Frankrijk/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+LYON...;2147428601.mpg;;;;8234.jpg/;Frankrijk/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+MAARSSEN;2147428312.mpg;;;;7850.jpg/8419.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MAARTENSDIJK;2147428313.mpg;;;;7851.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+MAAS;2147429622.mpg;;;;7709.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+MAASSLUIS;2147430141.mpg;;;;7946.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+MAASTRICHT;03554.mpg;6573.jpg/;;;7624.jpg/8420.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Limburg/;1-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MACAU / AOMEN eiland;2147429623.mpg;;;;8247.jpg/;China/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+MACAU stad;2147429712.mpg;;;;8277.jpg/;China/;47-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+MACEDONIË;2147428315.mpg;;6896.jpg;;7032.jpg/7033.jpg/;Landen/Macedonië/Werelddeel Europa/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+MADAGASKAR;2147429850.mpg;;6900.jpg;;7163.jpg/7164.jpg/;Landen/Madagaskar/Werelddeel Afrika/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+MADEIRA;2147429851.mpg;;6940.jpg;;8031.jpg/;Portugal/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+MADRAS / CHENNAI;2147429811.mpg;;;;8193.jpg/;India/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+MADRID;2147428781.mpg;;;;7814.jpg/;/Spanje/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MAGDEBURG;2147430846.mpg;;;;8519.jpg/;Duitsland/;4-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+MAINZ;2147429852.mpg;;;;6996.jpg/;Duitsland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+MÁLAGA;2147429624.mpg;;;;7815.jpg/;Spanje/;54-l.bmp/60-r.bmp/1-l.bmp/1-r.bmp
+MALAWI;2147428316.mpg;;6901.jpg;;7165.jpg/7166.jpg/;Landen/Malawi/Werelddeel Afrika/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+MALEISIË;2147428317.mpg;;6812.jpg;;7233.jpg/7234.jpg/;Landen/Maleisië/Werelddeel Azië/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+MALI;2147428423.mpg;;6902.jpg;;7167.jpg/7168.jpg/;Landen/Mali/Werelddeel Afrika/;35-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MALLORCA;2147429853.mpg;;6903.jpg;;8036.jpg/;Spanje/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+MALMÖ;2147428318.mpg;;;;7975.jpg/;Zweden/;35-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MALTA;2147428320.mpg;;6868.jpg;;8230.jpg/8231.jpg/;Landen/Malta/Werelddeel Europa/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+MANCHESTER;2147428604.mpg;;;;7877.jpg/;;36-l.bmp/66-r.bmp/1-l.bmp/12-r.bmp
+MANNHEIM;2147428349.mpg;;;;6997.jpg/;Duitsland/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+MARANHÃO;2147430668.mpg;;;;7438.jpg/;Brazilië/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+MARIBOR;2147429627.mpg;;;;7597.jpg/;Slovenië/;35-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+MARKEN;2147428784.mpg;;;;8143.jpg/;Provincie Noord-Holland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MARKERMEER;2147429628.mpg;;;;7710.jpg/;Nederland: wateren/;40-l.bmp/40-r.bmp/1-l.bmp/54-r.bmp
+MAROKKO;2147429854.mpg;6552.jpg/;6814.jpg;;7285.jpg/8104.jpg/;Landen/Marokko/Werelddeel Afrika/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+MARRAKECH;2147430669.mpg;;;;7644.jpg/;Marokko/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+MARSEILLE;2147428607.mpg;;;;7493.jpg/;Frankrijk/;36-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+MARTINIQUE;2147430847.mpg;;;;8543.jpg/8544.jpg/;Frankrijk/;74-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+MAUI;2147428608.mpg;;;;8085.jpg/;Verenigde Staten/;1-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MAURITANIË;2147429855.mpg;;6910.jpg;;7169.jpg/7170.jpg/;Landen/Mauritanië/Werelddeel Afrika/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+MECHELEN;2147428322.mpg;;;;7417.jpg/;België/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MEDAN;2147429631.mpg;;;;7543.jpg/;Indonesië/;51-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+MEER waterplas;41622.mpg;6545.jpg/;1887.jpg;2955.jpg/;;Topografie/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+MELBOURNE;2147429632.mpg;;;;7402.jpg/;Australië/;1-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MENDOZA;2147428425.mpg;;;;7395.jpg/;Argentinië/;1-l.bmp/43-r.bmp/1-l.bmp/1-r.bmp
+MEPPEL;2147428323.mpg;;;;7321.jpg/8421.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+MERSIN;2147429856.mpg;;;;7832.jpg/;Turkije/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+METZ;2147430898.mpg;;;;7494.jpg/;Frankrijk/;1-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+MEXICO;2147428324.mpg;;6815.jpg;;8216.jpg/8261.jpg/;Landen/Mexico/Werelddeel Noord-Amerika/;1-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MEXICO stad;2147428610.mpg;;;;7647.jpg/;/Mexico/;1-l.bmp/45-r.bmp/1-l.bmp/11-r.bmp
+MEXICO...;2147428611.mpg;;6816.jpg;;;Landen/Mexico/Werelddeel Noord-Amerika/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+MIAMI;2147428612.mpg;;;;8565.jpg/;Verenigde Staten/;34-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MIDDELBURG;2147428426.mpg;6525.jpg/;;;7961.jpg/8422.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Zeeland/;35-l.bmp/35-r.bmp/35-l.bmp/35-r.bmp
+MIDDELLANDSE ZEE;2147429857.mpg;;;;8126.jpg/8127.jpg/;Wereld: wateren/;34-l.bmp/35-r.bmp/1-l.bmp/54-r.bmp
+MIDDEN-AMERIKA;42986.mpg;;;;;;2-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+MILAAN;2147428326.mpg;;;;7572.jpg/;Italië/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MINAS GERAIS;2147430671.mpg;;;;7439.jpg/;Brazilië/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MINHO;2147428786.mpg;;;;7771.jpg/;Portugal/Spanje/;40-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+MINNEAPOLIS;2147428615.mpg;;;;8566.jpg/;Verenigde Staten/;1-l.bmp/63-r.bmp/1-l.bmp/1-r.bmp
+MINSK;2147429633.mpg;;;;7885.jpg/;/Wit Rusland/;1-l.bmp/69-r.bmp/1-l.bmp/1-r.bmp
+MISKOLC;2147430042.mpg;;;;7522.jpg/;Hongarije/;1-l.bmp/27-r.bmp/1-l.bmp/1-r.bmp
+MOLDAVIË;2147428327.mpg;;6911.jpg;;7034.jpg/7035.jpg/;Landen/Moldavië/Werelddeel Europa/;1-l.bmp/22-r.bmp/1-l.bmp/21-r.bmp
+MONACO;2147429634.mpg;;6912.jpg;;7038.jpg/;Landen/Werelddeel Europa/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+MONGOLIË;2147428328.mpg;;;;7235.jpg/7236.jpg/;Landen/Mongolië/Werelddeel Azië/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+MONTENEGRO;2147428330.mpg;;6913.jpg;;7036.jpg/7037.jpg/;Landen/Montenegro/Werelddeel Europa/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+MONTPELLIER;2147430672.mpg;;;;7495.jpg/;Frankrijk/;8-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+MONTRÉAL;2147428331.mpg;;;;7453.jpg/;Canada/;35-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MOORDRECHT;2147428428.mpg;;;;7947.jpg/8423.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/3-r.bmp/1-l.bmp/54-r.bmp
+MOSKOU;2147428332.mpg;;;;7783.jpg/;Rusland/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+MOSTAR;2147428787.mpg;;;;7430.jpg/;Bosnië en Herzegovina/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+MOUNT EVEREST;2147430673.mpg;;;;7985.jpg/;Nepal/;1-l.bmp/41-r.bmp/40-l.bmp/40-r.bmp
+MOZAMBIQUE;04312.mpg;;6817.jpg;;7171.jpg/7172.jpg/;Landen/Mozambique/Werelddeel Afrika/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+MUMBAI;2147428617.mpg;;;;8198.jpg/;India/;36-l.bmp/66-r.bmp/1-l.bmp/1-r.bmp
+MÜNCHEN;2147429860.mpg;;;;6998.jpg/;Duitsland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+MYANMAR / BIRMA;2147429636.mpg;;6914.jpg;;7237.jpg/7238.jpg/;Landen/Werelddeel Azië/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+NAARDEN;2147429638.mpg;;;;8424.jpg/7692.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;12-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+NAMEN;2147428335.mpg;;;;7419.jpg/;België/;40-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+NAMIBIË;2147428333.mpg;;6905.jpg;;7173.jpg/7174.jpg/;Landen/Namibië/Werelddeel Afrika/;1-l.bmp/1-r.bmp/1-l.bmp/1-r.bmp
+NANCY;2147428618.mpg;;;;7496.jpg/;Frankrijk/;67-l.bmp/67-r.bmp/1-l.bmp/1-r.bmp
+NANTES;2147428619.mpg;;;;7497.jpg/;Frankrijk/;1-l.bmp/25-r.bmp/1-l.bmp/1-r.bmp
+NAPELS;2147428790.mpg;;;;7573.jpg/;Italië/;1-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+NARVA;2147430044.mpg;;;;7470.jpg/;Estland/;35-l.bmp/60-r.bmp/1-l.bmp/1-r.bmp
+NAZARETH;2147428336.mpg;;;;7561.jpg/;Israël/;59-l.bmp/59-r.bmp/1-l.bmp/1-r.bmp
+NEDERLAND;00888.mpg;6489.jpg/6490.jpg/;6819.jpg;;8275.jpg/8323.jpg/7039.jpg/7040.jpg/7675.jpg/;Landen/Werelddeel Europa/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+NEDERLANDSE ANTILLEN;50095.mpg;;6820.jpg;;8548.jpg/8549.jpg/;;22-l.bmp/22-r.bmp/1-l.bmp/28-r.bmp
+NEDERSAKSEN;2147430848.mpg;;;;8121.jpg/;Duitsland/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+NEPAL;2147428337.mpg;;6821.jpg;;7239.jpg/7240.jpg/;Landen/Nepal/Werelddeel Azië/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+NEURENBERG;2147429861.mpg;;;;6999.jpg/;Duitsland/;36-l.bmp/32-r.bmp/1-l.bmp/1-r.bmp
+NEW DELHI;2147428620.mpg;;;;8199.jpg/;/India/;40-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+NEW ORLEANS;2147428621.mpg;;;;8086.jpg/;Verenigde Staten/;36-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+NEW YORK;2147428338.mpg;;;;8087.jpg/;Verenigde Staten/;36-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+NEWCASTLE;2147428622.mpg;;;;7879.jpg/;;36-l.bmp/67-r.bmp/1-l.bmp/12-r.bmp
+NI;2147428794.mpg;;;;7792.jpg/;Servië/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+NICARAGUA;2147428339.mpg;;6906.jpg;;8217.jpg/8263.jpg/;Landen/Nicaragua/Werelddeel Noord-Amerika/;25-l.bmp/25-r.bmp/1-l.bmp/1-r.bmp
+NICE;2147428623.mpg;;;;7498.jpg/;Frankrijk/;36-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+NIEDERÖSTERREICH;2147428791.mpg;;;;7749.jpg/;Oostenrijk/;1-l.bmp/35-r.bmp/49-l.bmp/49-r.bmp
+NIEUW CALEDONIË;2147429713.mpg;;;;8025.jpg/;Frankrijk/;36-l.bmp/36-r.bmp/1-l.bmp/71-r.bmp
+NIEUWEGEIN;2147428624.mpg;;;;8425.jpg/7852.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/20-r.bmp/1-l.bmp/2-r.bmp
+NIEUW-LOOSDRECHT;2147428340.mpg;;;;7693.jpg/8426.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/20-r.bmp/1-l.bmp/37-r.bmp
+NIEUW-ZEELAND;03447.mpg;;6822.jpg;;7288.jpg/;Landen/Nieuw Zeeland/Werelddeel Oceanië/;36-l.bmp/36-r.bmp/36-l.bmp/39-r.bmp
+NIGERIA;2147428792.mpg;;6823.jpg;;7177.jpg/7178.jpg/;Landen/Nigeria/Werelddeel Afrika/;1-l.bmp/21-r.bmp/1-l.bmp/1-r.bmp
+NIJKERK;2147430047.mpg;;;;8173.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+NIJMEGEN;2147428793.mpg;3975.jpg/;;;8174.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+NIJVERDAL;2147428372.mpg;;;;7365.jpg/8427.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;1-l.bmp/67-r.bmp/1-l.bmp/34-r.bmp
+NITRA;2147428625.mpg;;;;7797.jpg/;Slowakije/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+NOORD / NOORDEN;40610.mpg;;;;;;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+NOORD-AMERIKA;03427.mpg;;;;8249.jpg/;Werelddelen/;54-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+NOORD-BRABANT;01671.mpg;;;;7777.jpg/8335.jpg/;Nederland: provincies/Provincie Noord-Brabant/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+NOORD-HOLLAND;2147424356.mpg;;;;7776.jpg/8332.jpg/;Nederland: provincies/Provincie Noord-Holland/;1-l.bmp/34-r.bmp/22-l.bmp/22-r.bmp
+NOORD-HOLLANDS KANAAL;2147429642.mpg;;;;7711.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/22-l.bmp/22-r.bmp
+NOORD-IERLAND;2147429641.mpg;;6907.jpg;;7880.jpg/;Verenigd Koninkrijk/;35-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+NOORD-KOREA;2147428796.mpg;;6824.jpg;;7241.jpg/7242.jpg/;Landen/Werelddeel Azië/;1-l.bmp/34-r.bmp/1-l.bmp/34-r.bmp
+NOORDPOOL(GEBIED);43459.mpg;;;;8097.jpg/8098.jpg/;Canada/Rusland/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+NOORDWIJK;2147430046.mpg;;;;8187.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/34-r.bmp/1-l.bmp/54-r.bmp
+NOORDZEE;2147429643.mpg;;;;7712.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/1-l.bmp/74-r.bmp
+NOORDZEEKANAAL;2147429862.mpg;;;;7713.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/1-l.bmp/54-r.bmp
+NOORDZEESLUIZEN;2147429863.mpg;;;;;;1-l.bmp/34-r.bmp/1-l.bmp/54-r.bmp
+NOORWEGEN;02832.mpg;;6825.jpg;;7041.jpg/7042.jpg/;Landen/Noorwegen/Werelddeel Europa/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+NORMANDIË;2147428626.mpg;;;;7499.jpg/;Frankrijk/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+NOTTINGHAM;2147428627.mpg;;;;7881.jpg/;;3-l.bmp/59-r.bmp/1-l.bmp/1-r.bmp
+NOVI SAD;2147428797.mpg;;;;7793.jpg/;Servië/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+NOVO MESTO;2147430048.mpg;;;;7598.jpg/;Slovenië/;35-l.bmp/35-r.bmp/4-l.bmp/4-r.bmp
+N-Z AMERIKA;2147428788.mpg;;;;;;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+OBERÖSTERREICH;2147428798.mpg;;;;7751.jpg/;Oostenrijk/;1-l.bmp/37-r.bmp/49-l.bmp/49-r.bmp
+OCEANIË;2147429864.mpg;;;;;;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+ODENSE;2147428799.mpg;;;;8227.jpg/;Denemarken/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+OEKRAÏNE;2147428800.mpg;;6827.jpg;;7043.jpg/7044.jpg/;Landen/Oekraïne/Werelddeel Europa/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+OEZBEKISTAN;2147428801.mpg;;6908.jpg;;7243.jpg/7244.jpg/;Landen/Oezbekistan/Werelddeel Azië/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+OHIO;2147429644.mpg;;;;7908.jpg/;Verenigde Staten/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+OIRSCHOT;2147428942.mpg;;;;7666.jpg/8428.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;9-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+OISTERWIJK;2147428802.mpg;;;;8183.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;8-l.bmp/8-r.bmp/1-l.bmp/54-r.bmp
+OLD DELHI;2147428628.mpg;;;;8200.jpg/;India/;1-l.bmp/54-r.bmp/40-l.bmp/12-r.bmp
+OLDENZAAL;2147430049.mpg;;;;7366.jpg/8429.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;37-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+OLOMOUC;2147430050.mpg;;;;7838.jpg/;Tsjechië/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+OOST / OOSTEN;01645.mpg;;;;;;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+OOSTENDE;2147429646.mpg;;;;7420.jpg/;België/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+OOSTENRIJK;2147429866.mpg;;;;7045.jpg/7046.jpg/;Landen/Oostenrijk/Werelddeel Europa/;49-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+OOSTERSCHELDE;2147429647.mpg;;;;7714.jpg/;Nederland: wateren/;1-l.bmp/34-r.bmp/3-l.bmp/3-r.bmp
+OOSTZEE;2147429868.mpg;;;;8128.jpg/8129.jpg/;Wereld: wateren/;1-l.bmp/34-r.bmp/1-l.bmp/54-r.bmp
+ÖREBRO;2147428939.mpg;;7976.jpg;;;Zweden/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+OREGON;2147428629.mpg;;;;7909.jpg/;Verenigde Staten/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+OSIJEK;2147428944.mpg;;;;7592.jpg/;Kroatië/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+OSLO;2147428630.mpg;;;;7723.jpg/;/Noorwegen/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+OSS;2147428805.mpg;;;;7667.jpg/8430.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+OSTRAVA;2147428631.mpg;;;;7839.jpg/;Tsjechië/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+OTTAWA;2147429645.mpg;;;;7454.jpg/;/Canada/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+OUAGADOUGOU;2147430675.mpg;;;;7450.jpg/;Burkina Faso/;1-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+OUD-LOOSDRECHT;2147428341.mpg;;;;7694.jpg/8431.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/3-r.bmp/1-l.bmp/37-r.bmp
+OULU;2147430051.mpg;;;;7479.jpg/;Finland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+OVERIJSSEL;02371.mpg;;;;7373.jpg/8327.jpg/;Nederland: provincies/Provincie Overijssel/;1-l.bmp/15-r.bmp/1-l.bmp/74-r.bmp
+PACA / PROVENCE-ALPES-COTE 'D AZUR;2147428633.mpg;;;;8553.jpg/;Frankrijk/;49-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+PADANG;2147429648.mpg;;;;7544.jpg/;Indonesië/;74-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+PAKISTAN;2147428806.mpg;;6828.jpg;;7247.jpg/7248.jpg/;Landen/Pakistan/Werelddeel Azië/;40-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+PALERMO;2147429649.mpg;;;;7574.jpg/;Italië/;1-l.bmp/32-r.bmp/1-l.bmp/1-r.bmp
+PALESTIJNSE GEBIEDEN;2147430676.mpg;;;;7758.jpg/8081.jpg/;Werelddeel Azië/;1-l.bmp/15-r.bmp/1-l.bmp/54-r.bmp
+PALESTINA;2147429869.mpg;;;;;;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+PANAMA;2147428634.mpg;;6829.jpg;;8218.jpg/8264.jpg/;Landen/Panama/Werelddeel Noord-Amerika/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+PANEVÉYS;2147428635.mpg;;;;7618.jpg/;Litouwen/;1-l.bmp/67-r.bmp/1-l.bmp/1-r.bmp
+PAPENDRECHT;2147428431.mpg;;;;7948.jpg/8432.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/5-r.bmp/1-l.bmp/54-r.bmp
+PAPOEA;2147429650.mpg;;;;7545.jpg/;Indonesië/;1-l.bmp/36-r.bmp/1-l.bmp/36-r.bmp
+PARAGUAY;2147428809.mpg;;6909.jpg;;8316.jpg/8508.jpg/;Landen/Paraguay/Werelddeel Zuid-Amerika/;35-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+PARAMARIBO;2147430691.mpg;;;;7819.jpg/;/Suriname/;1-l.bmp/65-r.bmp/1-l.bmp/11-r.bmp
+PARIJS;2147428637.mpg;;;;7500.jpg/;/Frankrijk/;1-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+PARIJS gebruikt door Parijzenaars;2147428636.mpg;;;;7501.jpg/;/Frankrijk/;36-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+PARIJS internationaal gebruikt;2147428810.mpg;;;;7502.jpg/;/Frankrijk/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+PÄRNU;2147430052.mpg;;;;7471.jpg/;Estland/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+PASSAU;2147429652.mpg;;;;7000.jpg/;Duitsland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+PATRAS;2147429653.mpg;;;;7514.jpg/;Griekenland/;34-l.bmp/60-r.bmp/1-l.bmp/1-r.bmp
+PÉCS;2147428638.mpg;;;;7523.jpg/;Hongarije/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+PEEL;2147429654.mpg;;;;8140.jpg/;Provincie Noord-Brabant/Provincie Limburg/;11-l.bmp/11-r.bmp/1-l.bmp/54-r.bmp
+PEKING / BEIJING;2147430678.mpg;;;;7462.jpg/;/China/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+PERTH;2147429655.mpg;;;;7403.jpg/;Australië/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+PERU;2147428811.mpg;;6919.jpg;;8317.jpg/8509.jpg/;Landen/Peru/Werelddeel Zuid-Amerika/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+PESHAWAR;2147429656.mpg;;;;7989.jpg/;Pakistan/;40-l.bmp/42-r.bmp/1-l.bmp/1-r.bmp
+PESHKOPI;2147429657.mpg;;;;7390.jpg/;Albanië/;36-l.bmp/50-r.bmp/1-l.bmp/1-r.bmp
+PHILADELPHIA;2147428639.mpg;;;;8567.jpg/;Verenigde Staten/;1-l.bmp/68-r.bmp/1-l.bmp/1-r.bmp
+PHOENIX;2147428640.mpg;;;;8568.jpg/;Verenigde Staten/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+PIETERBUREN;2147430889.mpg;;;;8268.jpg/8433.jpg/;Nederland: plaatsnamen/Provincie Groningen/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+PLAVINAS;2147428642.mpg;;;;7608.jpg/;Letland/;1-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+PLAYA DEL CARMEN;2147428643.mpg;;;;7648.jpg/;Mexico/;36-l.bmp/48-r.bmp/36-l.bmp/8-r.bmp
+PLOVDIV;2147428644.mpg;;;;7447.jpg/;Bulgarije/;37-l.bmp/32-r.bmp/1-l.bmp/1-r.bmp
+PLZEN;2147428641.mpg;;;;7840.jpg/;Tsjechië/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+POLEN;2147428813.mpg;;6830.jpg;;7047.jpg/7048.jpg/;Landen/Polen/Werelddeel Europa/;1-l.bmp/33-r.bmp/1-l.bmp/1-r.bmp
+PONTA DELGADA;2147429871.mpg;;;;8032.jpg/;Portugal/;35-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+PORTLAND;2147428645.mpg;;;;8088.jpg/;Verenigde Staten/;1-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+PORTO;2147428814.mpg;;;;7774.jpg/;Portugal/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+PORTUGAL;2147429872.mpg;;6831.jpg;;7049.jpg/7050.jpg/;Landen/Portugal/Werelddeel Europa/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+POTSDAM;2147430053.mpg;;;;7001.jpg/;Duitsland/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+PRAAG;2147428646.mpg;;;;7841.jpg/;/Tsjechië/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+PREOV;2147428647.mpg;;;;7798.jpg/;Slowakije/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+PRETORIA;2147429659.mpg;;;;7926.jpg/;Zuid-Afrika/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+PRISHTINË;2147428815.mpg;;;;7589.jpg/;Servië/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+PROVENCE;2147431437.mpg;;;;;Frankrijk/;3-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+PROVENCE-ALPES-COTE 'D AZUR  / PACA;2147428632.mpg;;;;8052.jpg/;Frankrijk/;49-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+PROVINCIE;40679.mpg;;;;;Topografie/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+PUEBLA;2147428649.mpg;;;;7649.jpg/;Mexico/;1-l.bmp/65-r.bmp/1-l.bmp/1-r.bmp
+PUERTO RICO;2147428816.mpg;;6920.jpg;;8547.jpg/8546.jpg/;Verenigde Staten/;35-l.bmp/68-r.bmp/1-l.bmp/69-r.bmp
+PULA;2147428817.mpg;;;;7599.jpg/;Kroatië/;12-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+PURMEREND;2147428818.mpg;;;;7695.jpg/8434.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+PYRENEEËN;2147428819.mpg;;;;8020.jpg/;Spanje/Frankrijk/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+QUEBEC;2147429660.mpg;;;;7455.jpg/;Canada/;1-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+RABAT;2147429661.mpg;;;;8051.jpg/;/Marokko/;1-l.bmp/69-r.bmp/1-l.bmp/1-r.bmp
+RANDSTAD;2147429662.mpg;;;;8152.jpg/;;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+RECIFE;2147428650.mpg;;;;7440.jpg/;Brazilië/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+RENNES;2147428651.mpg;;;;7505.jpg/;Frankrijk/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+RÉUNION;2147429663.mpg;;;;8026.jpg/;Frankrijk/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+RÉUNION...;2147430899.mpg;;;;8027.jpg/;Frankrijk/;35-l.bmp/53-r.bmp/11-l.bmp/11-r.bmp
+REYKJAVIK;2147428652.mpg;;;;8259.jpg/;/IJsland/;1-l.bmp/69-r.bmp/1-l.bmp/1-r.bmp
+REZEKNE;2147428653.mpg;;;;7609.jpg/;Letland/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+RHENEN;2147428820.mpg;;;;7853.jpg/8435.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+RHÔNE-ALPES;2147429874.mpg;;;;7506.jpg/;Frankrijk/;71-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+RIDDERKERK;2147428821.mpg;;;;7949.jpg/8436.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/5-r.bmp/54-l.bmp/54-r.bmp
+RIGA;2147428655.mpg;;;;7610.jpg/;/Letland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+RIJEKA;2147428822.mpg;;;;7600.jpg/;Kroatië/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+RIJN;2147429665.mpg;;;;8021.jpg/;Nederland: wateren/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+RIJSSEN;2147429875.mpg;;;;7367.jpg/8437.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+RIO DE JANEIRO;2147428823.mpg;;;;7441.jpg/;Brazilië/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+RIO GRANDE DO SUL;2147428658.mpg;;;;7443.jpg/;Brazilië/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+RIVIER;42071.mpg;6280.jpg/;;;;Topografie/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+RIZE;2147428659.mpg;;;;7833.jpg/;Turkije/;71-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+ROCHESTER;2147429666.mpg;;;;8089.jpg/;Verenigde Staten/;1-l.bmp/69-r.bmp/1-l.bmp/1-r.bmp
+RODE ZEE;2147429877.mpg;;;;8099.jpg/;Wereld: wateren/;1-l.bmp/40-r.bmp/1-l.bmp/54-r.bmp
+RODEN;2147428824.mpg;;;;7322.jpg/8439.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ROEMENIË;2147428660.mpg;;6832.jpg;;7051.jpg/7052.jpg/;Landen/Roemenië/Werelddeel Europa/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+ROERMOND;2147428945.mpg;;;;7625.jpg/8440.jpg/;Nederland: plaatsnamen/Provincie Limburg/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ROME;2147428946.mpg;;;;7565.jpg/;/Italië/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+ROME oudheid;2147429232.mpg;;;;;;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+ROOSENDAAL;2147430054.mpg;;;;7668.jpg/8441.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+ROSKILDE;2147428827.mpg;;;;8228.jpg/;Denemarken/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+ROTTERDAM;2147429878.mpg;5479.jpg/;;;7950.jpg/8442.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+ROTTUMEROOG;2147430055.mpg;;;;8139.jpg/8144.jpg/;Nederland: plaatsnamen/Provincie Groningen/;1-l.bmp/69-r.bmp/1-l.bmp/40-r.bmp
+ROVANIEMI;2147430056.mpg;;;;7480.jpg/;Finland/;1-l.bmp/54-r.bmp/1-l.bmp/40-r.bmp
+RUSLAND;02829.mpg;;6833.jpg;;7252.jpg/7053.jpg/7054.jpg/7251.jpg/;Landen/Rusland/Werelddeel Europa/Werelddeel Azië/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+RWANDA;2147428828.mpg;;6834.jpg;;7183.jpg/7184.jpg/7186.jpg/;Landen/Rwanda/Werelddeel Afrika/;4-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+SAARBRÜCKEN;2147428663.mpg;;;;7002.jpg/;Duitsland/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+SAINT MALO;2147428664.mpg;;;;7507.jpg/;Frankrijk/;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+SAKSEN;2147430849.mpg;;;;7003.jpg/;Duitsland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+SALAMANCA;2147429667.mpg;;;;7816.jpg/;Spanje/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+SALT LAKE CITY;2147431150.mpg;;;;8090.jpg/;Verenigde Staten/;1-l.bmp/3-r.bmp/1-l.bmp/51-r.bmp
+SALVADOR;2147428435.mpg;;;;7444.jpg/;Brazilië/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SALZBURG;2147428829.mpg;;;;7741.jpg/;Oostenrijk/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+SALZBURGERLAND;2147428830.mpg;;;;7742.jpg/;Oostenrijk/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+SAN DIEGO;2147428666.mpg;;;;8091.jpg/;Verenigde Staten/;1-l.bmp/3-r.bmp/1-l.bmp/63-r.bmp
+SAN FRANCISCO;2147428667.mpg;;;;8092.jpg/;Verenigde Staten/;1-l.bmp/3-r.bmp/1-l.bmp/64-r.bmp
+SAN JOSÉ;2147428668.mpg;;;;8093.jpg/;Verenigde Staten/;36-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+SAN MARINO;2147429668.mpg;;6921.jpg;;7057.jpg/;Landen/Werelddeel Europa/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+SANKT GALLEN;2147428669.mpg;;;;7977.jpg/;Zwitserland/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+SANKT MORITZ;2147428670.mpg;;;;7978.jpg/;Zwitserland/;1-l.bmp/3-r.bmp/1-l.bmp/11-r.bmp
+SANKT PÖLTEN;2147428831.mpg;;;;7743.jpg/;Oostenrijk/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+SANTIAGO;2147430679.mpg;;;;7458.jpg/;/Chili/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SANTPOORT;2147429879.mpg;;;;8443.jpg/7696.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;40-l.bmp/40-r.bmp/34-l.bmp/34-r.bmp
+SAO PAULO;2147428446.mpg;;;;7445.jpg/;Brazilië/;1-l.bmp/68-r.bmp/1-l.bmp/1-r.bmp
+SAOEDI-ARABIË;2147428833.mpg;;6835.jpg;;7253.jpg/7254.jpg/;Landen/Saoedi-Arabië/Werelddeel Azië/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+SARAJEVO;2147428832.mpg;;;;7431.jpg/;/Bosnië en Herzegovina/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+SCANDINAVIË;2147428834.mpg;;;;8130.jpg/;;3-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+SCHAFFHAUSEN;2147428672.mpg;;;;7979.jpg/;Zwitserland/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+SCHAGEN;2147428835.mpg;;;;7697.jpg/8444.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;34-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+SCHELDE;2147429669.mpg;;;;7421.jpg/;Wereld: wateren/België/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SCHERPENZEEL;2147430057.mpg;;;;8175.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+SCHEVENINGEN;03564.mpg;;;;7951.jpg/8445.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;44-l.bmp/44-r.bmp/1-l.bmp/1-r.bmp
+SCHIEDAM;03563.mpg;;;;7952.jpg/8446.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+SCHIERMONNIKOOG;2147428836.mpg;;;;7339.jpg/8447.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+SCHIJNDEL;2147428840.mpg;;;;7669.jpg/8448.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+SCHIPHOL;03439.mpg;;;;7698.jpg/8449.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+SCHOTLAND;02836.mpg;;6836.jpg;;7882.jpg/;Verenigd Koninkrijk/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SEATTLE;2147428673.mpg;;;;8094.jpg/;Verenigde Staten/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SENEGAL;2147428436.mpg;;6922.jpg;;7187.jpg/7188.jpg/;Landen/Senegal/Werelddeel Afrika/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SEOUL;2147429670.mpg;;;;7994.jpg/;/Zuid-Korea/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+SERVIË;2147428841.mpg;;6923.jpg;;7055.jpg/7056.jpg/;Landen/Servië/Werelddeel Europa/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+SEVILLA;2147428378.mpg;;;;8048.jpg/;Spanje/;8-l.bmp/74-r.bmp/1-l.bmp/1-r.bmp
+SHANGHAI;2147430680.mpg;;;;8278.jpg/;China/;50-l.bmp/50-r.bmp/1-l.bmp/1-r.bmp
+SHANGHAI...;2147430686.mpg;;;;8279.jpg/;Japan/;1-l.bmp/69-r.bmp/1-l.bmp/1-r.bmp
+SHEFFIELD;2147428717.mpg;;;;7883.jpg/;;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+SHKODËR;2147429671.mpg;;;;7391.jpg/;Albanië/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+SIBERIË;2147429880.mpg;;;;7784.jpg/;Rusland/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+SICILIË;2147429672.mpg;;;;7577.jpg/;Italië/;1-l.bmp/32-r.bmp/1-l.bmp/1-r.bmp
+SIENA;2147429673.mpg;;;;7578.jpg/;Italië/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+SINAÏ;2147429424.mpg;;;;7562.jpg/;Israël/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+SINGAPORE;2147429883.mpg;;6837.jpg;;7255.jpg/7256.jpg/;Landen/Singapore/Werelddeel Azië/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SINT MICHIELSGESTEL;41754.mpg;;;;7671.jpg/8460.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+SINT NIKLAAS;2147428844.mpg;;;;7422.jpg/;België/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+SINT PETERSBURG;2147429881.mpg;;;;7785.jpg/;Rusland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+SITTARD;2147428845.mpg;;;;7626.jpg/8451.jpg/;Nederland: plaatsnamen/Provincie Limburg/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SJAELLAND;2147428948.mpg;;;;8229.jpg/;Denemarken/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+SKOPJE;2147428847.mpg;;;;7634.jpg/;/Macedonië/;1-l.bmp/46-r.bmp/1-l.bmp/1-r.bmp
+SLEESWIJK-HOLSTEIN;2147430850.mpg;;;;8122.jpg/;Duitsland/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SLOTEN;2147430058.mpg;;;;7340.jpg/8452.jpg/;Nederland: plaatsnamen/Provincie Friesland/;8-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+SLOVENIË;2147428848.mpg;;6839.jpg;;7058.jpg/7059.jpg/;Landen/Slovenië/Werelddeel Europa/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+SLOWAKIJE;02825.mpg;;6840.jpg;;7060.jpg/7061.jpg/;Landen/Slowakije/Werelddeel Europa/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+SMILTENE;2147428676.mpg;;;;7611.jpg/;Letland/;1-l.bmp/21-r.bmp/1-l.bmp/1-r.bmp
+SNEEK;2147429882.mpg;;;;7341.jpg/8453.jpg/;Nederland: plaatsnamen/Provincie Friesland/;34-l.bmp/34-r.bmp/22-l.bmp/22-r.bmp
+SOEST;2147429675.mpg;;;;7854.jpg/8454.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+SOFIA;2147428677.mpg;;;;7448.jpg/;/Bulgarije/;1-l.bmp/40-r.bmp/36-l.bmp/2-r.bmp
+SOMALIA;2147428854.mpg;;6878.jpg;;7193.jpg/7194.jpg/;Landen/Somalië/Werelddeel Afrika/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+SON;2147428855.mpg;;;;8455.jpg/7670.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+SOPRON;2147430059.mpg;;;;7524.jpg/;Hongarije/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+SOVJET UNIE;2147429764.mpg;;6875.jpg;;;Rusland/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+SPAKENBURG;2147429885.mpg;;;;7855.jpg/8456.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;37-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+SPANJE;2147428719.mpg;6193.jpg/;6841.jpg;;7062.jpg/7063.jpg/;Landen/Spanje/Werelddeel Europa/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+SPIJKENISSE;2147429765.mpg;;;;7953.jpg/8457.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+SPLIT;2147428856.mpg;;;;7602.jpg/;Kroatië/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+SREBRENICA;2147428839.mpg;;;;7432.jpg/;Bosnië en Herzegovina/;12-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+SRI LANKA;2147428679.mpg;;6842.jpg;;7293.jpg/8273.jpg/;Landen/Sri Lanka/Werelddeel Azië/;35-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+STAAT land;50037.mpg;;;;;;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+STAAT Verenigde Staten;2147428681.mpg;;;;;Verenigde Staten/;36-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+STAD;40169.mpg;3702.jpg/;2145.jpg;3160.jpg/;;Topografie/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+STADSKANAAL;2147428950.mpg;;;;8256.jpg/;Nederland: plaatsnamen/Provincie Groningen/;54-l.bmp/11-r.bmp/36-l.bmp/36-r.bmp
+STAVANGER;2147428682.mpg;;;;7724.jpg/;Noorwegen/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+STAVOREN;2147429886.mpg;;;;7342.jpg/8458.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+STEENWIJK;2147429676.mpg;;;;7368.jpg/8459.jpg/;Nederland: plaatsnamen/Provincie Overijssel/;3-l.bmp/42-r.bmp/1-l.bmp/54-r.bmp
+STIERMARKEN;2147428858.mpg;;;;7744.jpg/;Oostenrijk/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+STOCKHOLM;2147428859.mpg;;;;7980.jpg/;/Zweden/;1-l.bmp/55-r.bmp/1-l.bmp/1-r.bmp
+STRAATSBURG;2147428683.mpg;;;;7509.jpg/;Frankrijk/;1-l.bmp/16-r.bmp/1-l.bmp/1-r.bmp
+STRAATSBURG...;2147430921.mpg;;;;8044.jpg/;Frankrijk/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+STREEK gebied;40799.mpg;;;;;Topografie/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+STUTTGART;2147425556.mpg;;;;7004.jpg/;Duitsland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+SUBOTICA;2147428860.mpg;;;;7794.jpg/;Servië/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+SUDAN;2147428853.mpg;;6925.jpg;;7192.jpg/7191.jpg/;Landen/Soedan/Werelddeel Afrika/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+SUMATRA;2147429677.mpg;;;;7546.jpg/;Indonesië/;19-l.bmp/19-r.bmp/36-l.bmp/36-r.bmp
+SURINAME;50077.mpg;;6843.jpg;;8318.jpg/8511.jpg/;Landen/Suriname/Werelddeel Zuid-Amerika/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+SURINAME...;2147428685.mpg;;;;8319.jpg/8512.jpg/;Landen/Suriname/;1-l.bmp/54-r.bmp/1-l.bmp/48-r.bmp
+SWAZILAND;2147428861.mpg;;6876.jpg;;7111.jpg/7112.jpg/7182.jpg/;Landen/Swaziland/Werelddeel Afrika/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+SYDNEY;2147429678.mpg;;;;7404.jpg/;Australië/;17-l.bmp/17-r.bmp/1-l.bmp/1-r.bmp
+SYRIË;2147428862.mpg;;6877.jpg;;7257.jpg/7258.jpg/;Landen/Syrië/Werelddeel Azië/;36-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+SZEGED;2147428686.mpg;;;;7525.jpg/;Hongarije/;35-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+TAIPEI;2147429682.mpg;;;;7992.jpg/;/Taiwan/;51-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+TAIWAN;2147428863.mpg;;6838.jpg;;7261.jpg/7262.jpg/;Landen/Taiwan/Werelddeel Azië/;1-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+TALLINN;2147429679.mpg;;;;7472.jpg/;/Estland/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+TANGER;2147429680.mpg;;;;7645.jpg/;Marokko/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+TANZANIA;2147428864.mpg;;6874.jpg;;7195.jpg/7196.jpg/;Landen/Tanzania/Werelddeel Afrika/;1-l.bmp/47-r.bmp/1-l.bmp/1-r.bmp
+TARTU;2147430060.mpg;;;;7473.jpg/;Estland/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+TEHERAN;2147424958.mpg;;;;7548.jpg/;/Iran/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+TEL AVIV;2147428866.mpg;;;;8047.jpg/;Israël/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+TENERIFE;2147428867.mpg;;;;8037.jpg/;Spanje/;50-l.bmp/50-r.bmp/1-l.bmp/1-r.bmp
+TERSCHELLING;2147431438.mpg;;;;7343.jpg/8461.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+TESSINO;2147428689.mpg;;;;8038.jpg/;Zwitserland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+TEXAS;2147428690.mpg;;;;7919.jpg/;Verenigde Staten/;1-l.bmp/42-r.bmp/1-l.bmp/1-r.bmp
+TEXEL;2147428868.mpg;;;;7699.jpg/8462.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;31-l.bmp/31-r.bmp/1-l.bmp/1-r.bmp
+THAILAND;03443.mpg;;6844.jpg;;8274.jpg/7295.jpg/;Landen/Thailand/Werelddeel Azië/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+THESSALONKI;2147430074.mpg;;;;7515.jpg/;Griekenland/;1-l.bmp/18-r.bmp/1-l.bmp/1-r.bmp
+THORN;2147428869.mpg;;;;7627.jpg/8463.jpg/;Nederland: plaatsnamen/Provincie Limburg/;1-l.bmp/40-r.bmp/1-l.bmp/28-r.bmp
+TIBERIAS;2147429439.mpg;;;;7563.jpg/;Israël/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+TIBET;2147430681.mpg;;;;7464.jpg/;China/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+TIEL;2147429684.mpg;;;;8176.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;37-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+TILBURG;2147428870.mpg;;;;7672.jpg/8464.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+TIRANA;2147429685.mpg;;;;7392.jpg/;/Albanië/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+TIROL;2147428871.mpg;;;;7750.jpg/;Oostenrijk/;53-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+TOKYO;2147430851.mpg;;;;8108.jpg/;/Japan/;51-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+TOMBOUCTOU;2147430682.mpg;;;;7639.jpg/;Mali/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+TØNSBERG;2147429768.mpg;;;;7725.jpg/;Noorwegen/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+TOPOGRAFIE;50001.mpg;;;;;Topografie/;1-l.bmp/54-r.bmp/1-l.bmp/44-r.bmp
+TORONTO;2147428692.mpg;;;;7456.jpg/;Canada/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+TOULON;2147430900.mpg;;;;7508.jpg/;Frankrijk/;34-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+TOULOUSE;2147428695.mpg;;;;7510.jpg/;Frankrijk/;36-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+TRABZON;2147428696.mpg;;;;7834.jpg/;Turkije/;35-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+TRIER;2147428697.mpg;;;;7005.jpg/;Duitsland/;62-l.bmp/62-r.bmp/1-l.bmp/1-r.bmp
+TRINIDAD EN TOBAGO;2147430683.mpg;;6879.jpg;;8320.jpg/8513.jpg/;Landen/Werelddeel Zuid-Amerika/Trinidad en Tobago/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+TROMSØ;2147428699.mpg;;;;7726.jpg/;Noorwegen/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+TRONDHEIM;2147428700.mpg;;;;7727.jpg/;Noorwegen/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+TSJECHIË;2147428874.mpg;;6845.jpg;;7064.jpg/7065.jpg/;Landen/Tsjechië/Werelddeel Europa/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+TSJETSJENIË;2147428875.mpg;;6869.jpg;;7786.jpg/;Rusland/;1-l.bmp/73-r.bmp/1-l.bmp/1-r.bmp
+TUNESIË;2147428877.mpg;;8517.jpg;;7201.jpg/7202.jpg/;Landen/Tunesië/Werelddeel Afrika/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+TURIJN;2147424498.mpg;;;;7580.jpg/;Italië/;1-l.bmp/51-r.bmp/1-l.bmp/1-r.bmp
+TURKIJE;01573.mpg;3948.jpg/6014.jpg/;6846.jpg;;7264.jpg/7066.jpg/7067.jpg/7263.jpg/;Landen/Turkije/Werelddeel Europa/Werelddeel Azië/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+TURKMENISTAN;2147428878.mpg;;6880.jpg;;7265.jpg/7266.jpg/;Landen/Turkmenistan/Werelddeel Azië/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+TURKU;2147429686.mpg;;;;7481.jpg/;Finland/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+TURNHOUT;2147428879.mpg;;;;7423.jpg/;België/;12-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+TUZLA;2147428880.mpg;;;;7433.jpg/;Bosnië en Herzegovina/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+TWENTE;2147430684.mpg;;;;8146.jpg/;Provincie Overijssel/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+TWENTEKANAAL;2147429770.mpg;;;;7715.jpg/;Nederland: wateren/;54-l.bmp/54-r.bmp/36-l.bmp/36-r.bmp
+UDEN;2147428884.mpg;;;;7673.jpg/8465.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+UGANDA;2147430674.mpg;;6826.jpg;;7179.jpg/7180.jpg/;Landen/Oeganda/Werelddeel Afrika/;36-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+UICE;2147430986.mpg;;;;8147.jpg/;Servië/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+UITHOORN;2147428885.mpg;;;;7700.jpg/8466.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/24-r.bmp/11-l.bmp/11-r.bmp
+ULAANBAATAR;2147429692.mpg;;;;7652.jpg/;/Mongolië/;1-l.bmp/40-r.bmp/1-l.bmp/36-r.bmp
+URFA;2147428701.mpg;;;;7835.jpg/;Turkije/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+URK;2147428886.mpg;;;;8157.jpg/;Nederland: plaatsnamen/Provincie Flevoland/;1-l.bmp/28-r.bmp/1-l.bmp/1-r.bmp
+URUGUAY;2147428887.mpg;;6881.jpg;;8321.jpg/8499.jpg/;Landen/Uruguay/Werelddeel Zuid-Amerika/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+USA;2147428951.mpg;;6929.jpg;;;Verenigde Staten/;1-l.bmp/45-r.bmp/1-l.bmp/3-r.bmp
+USHUAIA;2147428702.mpg;;;;7396.jpg/;Argentinië/;1-l.bmp/52-r.bmp/1-l.bmp/1-r.bmp
+UTAH;2147429687.mpg;;;;7920.jpg/;Verenigde Staten/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+UTRECHT provincie;02369.mpg;;;;7778.jpg/8331.jpg/;Nederland: provincies/Provincie Utrecht/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+UTRECHT stad;2147429771.mpg;5995.jpg/5997.jpg/;;;7856.jpg/8468.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Utrecht/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+UTRECHTSE HEUVELRUG;2147429688.mpg;;;;8150.jpg/;Provincie Utrecht/;1-l.bmp/4-r.bmp/1-l.bmp/37-r.bmp
+VAALS;2147428888.mpg;;;;7629.jpg/8469.jpg/;Nederland: plaatsnamen/Provincie Limburg/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+VALENCIA;2147428379.mpg;;;;7817.jpg/;Spanje/;36-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+VALJEVO;2147428889.mpg;;;;8148.jpg/;Servië/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+VALKENBURG (L);2147428890.mpg;;;;8470.jpg/7630.jpg/;Nederland: plaatsnamen/Provincie Limburg/;49-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+VALKENSWAARD;2147428891.mpg;;;;7674.jpg/8471.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+VALMIERA;2147428703.mpg;;;;7612.jpg/;Letland/;1-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+VANCOUVER;2147428704.mpg;;;;7457.jpg/;Canada/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VARADERO;2147429888.mpg;;;;7468.jpg/;Cuba/;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VARANASI;2147428705.mpg;;;;8201.jpg/;India/;1-l.bmp/43-r.bmp/1-l.bmp/1-r.bmp
+VARNA;2147428706.mpg;;;;7449.jpg/;Bulgarije/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+VATICAAN paleis;43210.mpg;;6847.jpg;;;;48-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VATICAANSTAD;2147429689.mpg;;;;7068.jpg/;Landen/Werelddeel Europa/;45-l.bmp/45-r.bmp/1-l.bmp/12-r.bmp
+VEENENDAAL;2147428892.mpg;6724.jpg/;;;7857.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+VEENENDAAL...;2147428894.mpg;;;;8043.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+VEERE;2147429772.mpg;;;;7962.jpg/8472.jpg/;Nederland: plaatsnamen/Provincie Zeeland/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+VELES;2147428895.mpg;;;;7635.jpg/;Macedonië/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+VELUWE;2147429690.mpg;;;;8138.jpg/;Provincie Gelderland/;1-l.bmp/3-r.bmp/1-l.bmp/54-r.bmp
+VENETIË;2147429691.mpg;;;;7581.jpg/;Italië/;3-l.bmp/3-r.bmp/1-l.bmp/1-r.bmp
+VENEZUELA;2147428896.mpg;;6848.jpg;;8322.jpg/8339.jpg/;Landen/Venezuela/Werelddeel Zuid-Amerika/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VENLO;2147428897.mpg;;;;7631.jpg/8473.jpg/;Nederland: plaatsnamen/Provincie Limburg/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+VENRAY;2147428898.mpg;;;;8474.jpg/7632.jpg/;Nederland: plaatsnamen/Provincie Limburg/;1-l.bmp/48-r.bmp/1-l.bmp/53-r.bmp
+VENTSPILS;2147428707.mpg;;;;7613.jpg/;Letland/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+VERENIGD KONINKRIJK / UNITED KINGDOM;2147429887.mpg;;6849.jpg;;7069.jpg/7070.jpg/;Landen/Werelddeel Europa/;1-l.bmp/45-r.bmp/1-l.bmp/65-r.bmp
+VERENIGDE ARABISCHE EMIRATEN;2147428899.mpg;;6851.jpg;;7268.jpg/7269.jpg/;Landen/Verenigde Arabische Emiraten/Werelddeel Azië/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+VERENIGDE STATEN;2147428952.mpg;;6854.jpg;;;Landen/Verenigde Staten/Werelddeel Noord-Amerika/;54-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+VERONA;2147428381.mpg;;;;7582.jpg/;Italië/;71-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+VERSAILLES;2147428708.mpg;;;;7511.jpg/;Frankrijk/;37-l.bmp/49-r.bmp/1-l.bmp/1-r.bmp
+VIETNAM;2147428953.mpg;;6858.jpg;;7270.jpg/7271.jpg/;Landen/Vietnam/Werelddeel Azië/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VIETNAM...;2147428954.mpg;;;;8041.jpg/8042.jpg/;Landen/Vietnam/Werelddeel Azië/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+VILJANDI;2147430145.mpg;;;;7474.jpg/;Estland/;1-l.bmp/54-r.bmp/1-l.bmp/51-r.bmp
+VILLACH;2147428903.mpg;;;;7745.jpg/;Oostenrijk/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VILNIUS;2147428709.mpg;;;;7615.jpg/;/Litouwen/;1-l.bmp/31-r.bmp/1-l.bmp/1-r.bmp
+VLAANDEREN;2147428904.mpg;;;;7424.jpg/;België/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VLAARDINGEN;2147429693.mpg;;;;7954.jpg/8475.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/26-r.bmp/1-l.bmp/1-r.bmp
+VLAGTWEDDE;2147428905.mpg;;;;8267.jpg/8476.jpg/;Nederland: plaatsnamen/Provincie Groningen/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+VLEDDER;2147428906.mpg;;;;7323.jpg/8477.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+VLIELAND;2147429694.mpg;;;;7344.jpg/8478.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+VLISSINGEN;2147429695.mpg;;;;7963.jpg/8479.jpg/;Nederland: plaatsnamen/Provincie Zeeland/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+VOJVODINA;2147428907.mpg;;;;7795.jpg/;Servië/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+VOLENDAM;2147428908.mpg;;;;7679.jpg/8480.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;22-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+VOLGOGRAD;2147428714.mpg;;;;7787.jpg/;Rusland/;1-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+VOORBURG;03544.mpg;4014.jpg/;;;7955.jpg/8481.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VORARLBERG;2147428909.mpg;;;;7746.jpg/;Oostenrijk/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
+VUGHT;2147428911.mpg;;;;8142.jpg/;Nederland: plaatsnamen/Provincie Noord-Brabant/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+VULKAAN actieve vulkaan;80006.mpg;;;;;Topografie/;15-l.bmp/15-r.bmp/1-l.bmp/1-r.bmp
+VULKAAN dode vulkaan;2147430440.mpg;;;;;Topografie/;36-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+WAAL;2147429696.mpg;;;;7716.jpg/;Nederland: wateren/;1-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+WADDENEILAND;2147429697.mpg;;;;8145.jpg/;;40-l.bmp/40-r.bmp/1-l.bmp/12-r.bmp
+WADDENZEE;2147429698.mpg;;;;7717.jpg/;Nederland: wateren/;40-l.bmp/40-r.bmp/1-l.bmp/54-r.bmp
+WADDINXVEEN;2147428912.mpg;;;;7956.jpg/8482.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;4-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+WADDINXVEEN...;2147428913.mpg;;;;7957.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/1-r.bmp/1-l.bmp/1-r.bmp
+WAGENINGEN;2147430062.mpg;;;;8178.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+WALES;2147429699.mpg;;6859.jpg;;7884.jpg/;Verenigd Koninkrijk/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+WALLIS;2147428710.mpg;;;;7981.jpg/;Zwitserland/;1-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+WALLONIË;2147429700.mpg;;;;7425.jpg/;België/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+WARSCHAU;2147429773.mpg;;;;7773.jpg/;/Polen/;1-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+WASHINGTON D.C.;2147431156.mpg;;;;7921.jpg/;/Verenigde Staten/;1-l.bmp/70-r.bmp/1-l.bmp/63-r.bmp
+WASSENAAR;2147430063.mpg;;;;7958.jpg/8483.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;4-l.bmp/4-r.bmp/1-l.bmp/1-r.bmp
+WEERT;2147429701.mpg;;;;7633.jpg/8484.jpg/;Nederland: plaatsnamen/Provincie Limburg/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+WELLINGTON;2147429702.mpg;;;;7655.jpg/;/Nieuw Zeeland/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+WENEN;2147428915.mpg;;;;7747.jpg/;/Oostenrijk/;1-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+WERELD;40227.mpg;;2343.jpg;;;Topografie/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+WERELDDEEL / CONTINENT;50522.mpg;;;;;Topografie/;54-l.bmp/54-r.bmp/11-l.bmp/1-r.bmp
+WEST / WESTEN;42119.mpg;;;;;;1-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+WESTELIJKE JORDAANOEVER;2147428916.mpg;;;;7564.jpg/7757.jpg/;Israël/;9-l.bmp/9-r.bmp/1-l.bmp/1-r.bmp
+WESTERBORK;03559.mpg;;;;7324.jpg/8485.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+WESTERSCHELDE;2147429703.mpg;;;;7718.jpg/;Nederland: wateren/;1-l.bmp/36-r.bmp/3-l.bmp/3-r.bmp
+WIJNJEWOUDE;2147428917.mpg;;;;8486.jpg/7345.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/61-r.bmp/8-l.bmp/8-r.bmp
+WILLEMSTAD;2147428918.mpg;;;;8119.jpg/;Nederlandse Antillen/;37-l.bmp/37-r.bmp/1-l.bmp/1-r.bmp
+WINSCHOTEN;2147430064.mpg;;;;8487.jpg/8266.jpg/;Nederland: plaatsnamen/Provincie Groningen/;41-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+WINTERSWIJK;2147429704.mpg;;;;8179.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;1-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+WINTERTHUR;2147428713.mpg;;;;8039.jpg/;Zwitserland/;1-l.bmp/70-r.bmp/1-l.bmp/1-r.bmp
+WIT RUSLAND;2147428919.mpg;;6870.jpg;;7071.jpg/7072.jpg/;Landen/Wit Rusland/Werelddeel Europa/;40-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+WOERDEN;2147428920.mpg;;;;8151.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;61-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+WOLVEGA;2147428921.mpg;;;;7346.jpg/8488.jpg/;Nederland: plaatsnamen/Provincie Friesland/;1-l.bmp/8-r.bmp/1-l.bmp/1-r.bmp
+WORCESTER;2147428439.mpg;;;;7927.jpg/;Zuid-Afrika/;71-l.bmp/71-r.bmp/1-l.bmp/1-r.bmp
+WORMER;2147428922.mpg;;;;8489.jpg/7701.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/41-r.bmp/1-l.bmp/1-r.bmp
+WORMERVEER;2147428923.mpg;;;;7702.jpg/8490.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/41-r.bmp/1-l.bmp/16-r.bmp
+WUPPERTAL;2147428924.mpg;;;;7006.jpg/;Duitsland/;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+WÜRZBURG;2147428351.mpg;;;;7007.jpg/;Duitsland/;1-l.bmp/21-r.bmp/1-l.bmp/1-r.bmp
+WYOMING;2147429705.mpg;;;;7922.jpg/;Verenigde Staten/;70-l.bmp/70-r.bmp/53-l.bmp/53-r.bmp
+YOGJAKARTA;2147429606.mpg;;;;7541.jpg/;Indonesië/;1-l.bmp/53-r.bmp/1-l.bmp/1-r.bmp
+ZAANDAM;2147428925.mpg;;;;8491.jpg/7703.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;45-l.bmp/45-r.bmp/1-l.bmp/1-r.bmp
+ZADAR;2147428926.mpg;;;;7603.jpg/;Kroatië/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+ZAGREB;2147428838.mpg;;;;7590.jpg/;/Kroatië/;1-l.bmp/32-r.bmp/1-l.bmp/1-r.bmp
+ZALTBOMMEL;2147428928.mpg;;;;8180.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;15-l.bmp/36-r.bmp/1-l.bmp/1-r.bmp
+ZAMBIA;2147428929.mpg;;6860.jpg;;7203.jpg/7204.jpg/;Landen/Zambia/Werelddeel Afrika/;35-l.bmp/35-r.bmp/1-l.bmp/1-r.bmp
+ZAND, 'T;2147428724.mpg;;;;8189.jpg/8498.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/26-r.bmp/1-l.bmp/19-r.bmp
+ZANDVOORT;2147429706.mpg;;;;8492.jpg/7704.jpg/;Nederland: plaatsnamen/Provincie Noord-Holland/;1-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+ZARAGOZA;2147429707.mpg;;;;7818.jpg/;Spanje/;5-l.bmp/5-r.bmp/1-l.bmp/1-r.bmp
+ZEE;00634.mpg;5218.jpg/;2370.jpg;3326.jpg/;;Topografie/;1-l.bmp/54-r.bmp/1-l.bmp/1-r.bmp
+ZEEBRUGGE;2147428981.mpg;;;;7426.jpg/;België/;1-l.bmp/41-r.bmp/1-l.bmp/34-r.bmp
+ZEELAND;02368.mpg;;;;8334.jpg/7779.jpg/;Nederland: provincies/Provincie Zeeland/;1-l.bmp/36-r.bmp/1-l.bmp/36-r.bmp
+ZEIST;2147428931.mpg;;;;7858.jpg/8493.jpg/;Nederland: plaatsnamen/Provincie Utrecht/;1-l.bmp/34-r.bmp/1-l.bmp/1-r.bmp
+ZELL AM SEE;2147429708.mpg;;;;7748.jpg/;Oostenrijk/;1-l.bmp/49-r.bmp/1-l.bmp/54-r.bmp
+ZENICA;2147428932.mpg;;;;7434.jpg/;Bosnië en Herzegovina/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ZIMBABWE;04319.mpg;;6882.jpg;;7205.jpg/7206.jpg/;Landen/Zimbabwe/Werelddeel Afrika/;1-l.bmp/19-r.bmp/1-l.bmp/1-r.bmp
+ZOETERMEER;03545.mpg;;;;8494.jpg/7959.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/22-r.bmp/1-l.bmp/1-r.bmp
+ZRENJANIN;2147428933.mpg;;;;8149.jpg/;Servië/;35-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ZUID / ZUIDEN;41891.mpg;;;;;;1-l.bmp/38-r.bmp/1-l.bmp/1-r.bmp
+ZUID-AFRIKA;43007.mpg;;6861.jpg;;7207.jpg/7208.jpg/;Landen/Zuid-Afrika/Werelddeel Afrika/;1-l.bmp/3-r.bmp/1-l.bmp/22-r.bmp
+ZUID-AMERIKA;03426.mpg;;;;8308.jpg/;Werelddelen/;36-l.bmp/2-r.bmp/1-l.bmp/1-r.bmp
+ZUID-HOLLAND;2147424402.mpg;;;;8333.jpg/7780.jpg/;Nederland: provincies/Provincie Zuid-Holland/;1-l.bmp/38-r.bmp/22-l.bmp/22-r.bmp
+ZUID-KOREA;2147428935.mpg;;6862.jpg;;7274.jpg/7275.jpg/;Landen/Zuid-Korea/Werelddeel Azië/;1-l.bmp/37-r.bmp/1-l.bmp/35-r.bmp
+ZUIDLAREN;2147428936.mpg;;;;7325.jpg/8495.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;1-l.bmp/59-r.bmp/1-l.bmp/1-r.bmp
+ZUIDPOOL(GEBIED);43460.mpg;;;;8280.jpg/8100.jpg/8101.jpg/;Werelddelen/;11-l.bmp/11-r.bmp/1-l.bmp/1-r.bmp
+ZUIDWOLDE;2147428937.mpg;;;;7326.jpg/8496.jpg/;Nederland: plaatsnamen/Provincie Drenthe/;1-l.bmp/61-r.bmp/1-l.bmp/1-r.bmp
+ZÜRICH;2147428440.mpg;;;;7982.jpg/;Zwitserland/;1-l.bmp/40-r.bmp/1-l.bmp/1-r.bmp
+ZUTPHEN;2147428938.mpg;;;;8181.jpg/;Nederland: plaatsnamen/Provincie Gelderland/;24-l.bmp/24-r.bmp/1-l.bmp/1-r.bmp
+ZWARTE WOUD;2147429889.mpg;;;;7008.jpg/;Duitsland/;1-l.bmp/40-r.bmp/8-l.bmp/8-r.bmp
+ZWARTE ZEE;2147428657.mpg;;;;8131.jpg/8132.jpg/;;34-l.bmp/34-r.bmp/1-l.bmp/36-r.bmp
+ZWEDEN;02831.mpg;;6863.jpg;;7073.jpg/7074.jpg/;Landen/Zweden/Werelddeel Europa/;1-l.bmp/22-r.bmp/1-l.bmp/19-r.bmp
+ZWIJNDRECHT;2147428441.mpg;;;;8188.jpg/;Nederland: plaatsnamen/Provincie Zuid-Holland/;1-l.bmp/3-r.bmp/1-l.bmp/54-r.bmp
+ZWITSERLAND;02827.mpg;;6864.jpg;;7075.jpg/;Landen/Zwitserland/Werelddeel Europa/;1-l.bmp/12-r.bmp/1-l.bmp/1-r.bmp
+ZWOLLE;2147428442.mpg;5193.jpg/;;;7369.jpg/8497.jpg/;Nederland: plaatsnamen/Nederland: hoofdsteden/Provincie Overijssel/;1-l.bmp/48-r.bmp/1-l.bmp/1-r.bmp
